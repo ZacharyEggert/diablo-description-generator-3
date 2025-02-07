@@ -1,0 +1,777 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Preset {
+  createdAt DateTime @default(now())
+  id        String   @id @default(cuid())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  BodyShape           BodyShape?       @relation(fields: [bodyShapeId], references: [id])
+  bodyShapeId         String?
+  BodyType            BodyType?        @relation(fields: [bodyTypeId], references: [id])
+  bodyTypeId          String?
+  BodyWood            BodyWood?        @relation(fields: [bodyWoodId], references: [id])
+  bodyWoodId          String?
+  Brand               Brand?           @relation(fields: [brandId], references: [id])
+  brandId             String?
+  BridgeBrand         BridgeBrand?     @relation(fields: [bridgeBrandId], references: [id])
+  bridgeBrandId       String?
+  BridgeModel         BridgeModel?     @relation(fields: [bridgeModelId], references: [id])
+  bridgeModelId       String?
+  Case                Case?            @relation(fields: [caseId], references: [id])
+  caseId              String?
+  coilTap             String
+  Condition           Condition?       @relation(fields: [conditionId], references: [id])
+  conditionId         String?
+  Country             Country?         @relation(fields: [countryId], references: [id])
+  countryId           String?
+  FingerBoard         FingerBoard?     @relation(fields: [fingerBoardId], references: [id])
+  fingerBoardId       String?
+  Finish              Finish?          @relation(fields: [finishId], references: [id])
+  finishId            String?
+  FinishType          FinishType?      @relation(fields: [finishTypeId], references: [id])
+  finishTypeId        String?
+  FretCount           FretCount?       @relation(fields: [fretCountId], references: [id])
+  fretCountId         String?
+  Fretwire            Fretwire?        @relation(fields: [fretwireId], references: [id])
+  fretwireId          String?
+  Hardware            Hardware?        @relation(fields: [hardwareId], references: [id])
+  hardwareId          String?
+  InlayMaterial       InlayMaterial?   @relation(fields: [inlayMaterialId], references: [id])
+  inlayMaterialId     String?
+  Inlays              Inlays?          @relation(fields: [inlaysId], references: [id])
+  inlaysId            String?
+  killSwitch          String
+  Knobs               Knobs?           @relation(fields: [knobsId], references: [id])
+  knobsId             String?
+  Mod                 Mod?             @relation(fields: [modId], references: [id])
+  modId               String?
+  Model               Model?           @relation(fields: [modelId], references: [id])
+  modelId             String?
+  NeckFinish          NeckFinish?      @relation(fields: [neckFinishId], references: [id])
+  neckFinishId        String?
+  NeckJoint           NeckJoint?       @relation(fields: [neckJointId], references: [id])
+  neckJointId         String?
+  NeckProfile         NeckProfile?     @relation(fields: [neckProfileId], references: [id])
+  neckProfileId       String?
+  NeckRadius          NeckRadius?      @relation(fields: [neckRadiusId], references: [id])
+  neckRadiusId        String?
+  NeckThickness1      NeckThickness1?  @relation(fields: [neckThickness1Id], references: [id])
+  neckThickness1Id    String?
+  NeckThickness12     NeckThickness12? @relation(fields: [neckThickness12Id], references: [id])
+  neckThickness12Id   String?
+  NeckWood            NeckWood?        @relation(fields: [neckWoodId], references: [id])
+  neckWoodId          String?
+  Nut                 Nut?             @relation(fields: [nutId], references: [id])
+  nutId               String?
+  NutWidth            NutWidth?        @relation(fields: [nutWidthId], references: [id])
+  nutWidthId          String?
+  other               PresetOther      @relation(fields: [presetOtherId], references: [id])
+  OtherFeatures       OtherFeatures?   @relation(fields: [otherFeaturesId], references: [id])
+  otherFeaturesId     String?
+  phaseSwitch         String
+  auxiliarySwitch     String
+  Pickguard           Pickguard?       @relation(fields: [pickguardId], references: [id])
+  pickguardId         String?
+  pickupBridge        PickupBrand?     @relation(fields: [pickupBridgeId], references: [id], name: "pickupBridge")
+  pickupBridgeId      String?
+  pickupBridgeModel   PickupModel?     @relation(fields: [pickupBridgeModelId], references: [id], name: "pickupBridgeModel")
+  pickupBridgeModelId String?
+  pickupConfig        PickupConfig?    @relation(fields: [pickupConfigId], references: [id])
+  pickupConfigId      String?
+  pickupMiddle        PickupBrand?     @relation(fields: [pickupMiddleId], references: [id], name: "pickupMiddle")
+  pickupMiddleId      String?
+  pickupMiddleModel   PickupModel?     @relation(fields: [pickupMiddleModelId], references: [id], name: "pickupMiddleModel")
+  pickupMiddleModelId String?
+  pickupNeck          PickupBrand?     @relation(fields: [pickupNeckId], references: [id], name: "pickupNeck")
+  pickupNeckId        String?
+  pickupNeckModel     PickupModel?     @relation(fields: [pickupNeckModelId], references: [id], name: "pickupNeckModel")
+  pickupNeckModelId   String?
+
+  PotArrangement      PotArrangement?    @relation(fields: [potArrangementId], references: [id])
+  potArrangementId    String?
+  potDateCodes        String
+  presetOtherId       String
+  ScaleLength         ScaleLength?       @relation(fields: [scaleLengthId], references: [id])
+  scaleLengthId       String?
+  serial              String
+  StrapButtons        StrapButtons?      @relation(fields: [strapButtonsId], references: [id])
+  strapButtonsId      String?
+  StringGauge         StringGauge?       @relation(fields: [stringGaugeId], references: [id])
+  stringGaugeId       String?
+  Submodel            Submodel?          @relation(fields: [submodelId], references: [id])
+  submodelId          String?
+  SwitchArrangement   SwitchArrangement? @relation(fields: [switchArrangementId], references: [id])
+  switchArrangementId String?
+  TopWood             TopWood?           @relation(fields: [topWoodId], references: [id])
+  topWoodId           String?
+  TunerBrand          TunerBrand?        @relation(fields: [tunerBrandId], references: [id])
+  tunerBrandId        String?
+  TunerHead           TunerHead?         @relation(fields: [tunerHeadId], references: [id])
+  tunerHeadId         String?
+  TunerModel          TunerModel?        @relation(fields: [tunerModelId], references: [id])
+  tunerModelId        String?
+  weight              String
+  year                String
+  Series              Series?            @relation(fields: [seriesId], references: [id])
+  seriesId            String?
+  NeckBinding         NeckBinding?       @relation(fields: [neckBindingId], references: [id])
+  neckBindingId       String?
+  BodyBinding         BodyBinding?       @relation(fields: [bodyBindingId], references: [id])
+  bodyBindingId       String?
+  SideMarkers         SideMarkers?       @relation(fields: [sideMarkersId], references: [id])
+  sideMarkersId       String?
+  Headstock           Headstock?         @relation(fields: [headstockId], references: [id])
+  headstockId         String?
+}
+
+model PresetOther {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  BodyShape         String?
+  BodyType          String?
+  BodyWood          String?
+  Brand             String?
+  BridgeBrand       String?
+  BridgeModel       String?
+  Case              String?
+  coilTap           String?
+  Condition         String?
+  Country           String?
+  FingerBoard       String?
+  Finish            String?
+  FinishType        String?
+  FretCount         String?
+  Fretwire          String?
+  Hardware          String?
+  InlayMaterial     String?
+  Inlays            String?
+  killSwitch        String?
+  Knobs             String?
+  Mod               String?
+  Model             String?
+  NeckFinish        String?
+  NeckJoint         String?
+  NeckProfile       String?
+  NeckRadius        String?
+  NeckThickness1    String?
+  NeckThickness12   String?
+  NeckWood          String?
+  Nut               String?
+  NutWidth          String?
+  other             String?
+  OtherFeatures     String?
+  phaseSwitch       String?
+  Pickguard         String?
+  PickupBrand       String?
+  pickupBridge      String?
+  pickupBridgeModel String?
+  pickupConfig      String?
+  pickupMiddle      String?
+  pickupMiddleModel String?
+  PickupModel       String?
+  pickupNeck        String?
+  pickupNeckModel   String?
+  PotArrangement    String?
+  potDateCodes      String?
+  ScaleLength       String?
+  Serial            String?
+  StrapButtons      String?
+  StringGauge       String?
+  Submodel          String?
+  SwitchArrangement String?
+  TopWood           String?
+  TunerBrand        String?
+  TunerHead         String?
+  TunerModel        String?
+  weight            String?
+  year              String?
+  series            String?
+  NeckBinding       String?
+  BodyBinding       String?
+  SideMarkers       String?
+  Headstock         String?
+  Preset            Preset[]
+}
+
+model Brand {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset      Preset[]
+  Model       Model[]
+  Finish      Finish[]
+  finishId    String?
+  NeckProfile NeckProfile[]
+  Series      Series[]
+  sortAs      String?
+}
+
+model Series {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Brand   Brand  @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  brandId String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Model {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Brand   Brand  @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  brandId String
+
+  Preset   Preset[]
+  Submodel Submodel[]
+  sortAs   String?
+}
+
+model Submodel {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Model   Model  @relation(fields: [modelId], references: [id], onDelete: Cascade)
+  modelId String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Country {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Finish {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Brand   Brand?  @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  brandId String?
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Condition {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model FingerBoard {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Headstock {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckRadius {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckFinish {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckWood {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckProfile {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name    String  @unique
+  Brand   Brand?  @relation(fields: [brandId], references: [id], onDelete: Cascade)
+  brandId String?
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckThickness1 {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckThickness12 {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Fretwire {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model FretCount {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model ScaleLength {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NeckJoint {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Nut {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model NutWidth {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model InlayMaterial {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Inlays {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model BodyType {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model BodyWood {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model FinishType {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model BodyShape {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model TopWood {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model BridgeBrand {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset      Preset[]
+  BridgeModel BridgeModel[]
+  sortAs      String?
+}
+
+model Knobs {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Hardware {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Pickguard {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model StrapButtons {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model StringGauge {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model TunerBrand {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset     Preset[]
+  TunerModel TunerModel[]
+  sortAs     String?
+}
+
+model TunerModel {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  TunerBrand   TunerBrand @relation(fields: [tunerBrandId], references: [id], onDelete: Cascade)
+  tunerBrandId String
+  Preset       Preset[]
+  sortAs       String?
+}
+
+model TunerHead {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model PickupConfig {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model PickupBrand {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  PickupModel  PickupModel[]
+  PresetBridge Preset[]      @relation(name: "pickupBridge")
+  PresetNeck   Preset[]      @relation(name: "pickupNeck")
+  PresetMiddle Preset[]      @relation(name: "pickupMiddle")
+  sortAs       String?
+}
+
+model PickupModel {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  PickupBrand   PickupBrand @relation(fields: [PickupBrandId], references: [id], onDelete: Cascade)
+  PickupBrandId String
+  PresetBridge  Preset[]    @relation(name: "pickupBridgeModel")
+  PresetNeck    Preset[]    @relation(name: "pickupNeckModel")
+  PresetMiddle  Preset[]    @relation(name: "pickupMiddleModel")
+  sortAs        String?
+}
+
+model PotArrangement {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model SwitchArrangement {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Mod {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model OtherFeatures {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model Case {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String @unique
+
+  Preset Preset[]
+  sortAs String?
+}
+
+model BridgeModel {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  BridgeBrand   BridgeBrand @relation(fields: [BridgeBrandId], references: [id], onDelete: Cascade)
+  BridgeBrandId String
+  Preset        Preset[]
+  sortAs        String?
+}
+
+model NeckBinding {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+}
+
+model BodyBinding {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+}
+
+model SideMarkers {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name String
+
+  Preset Preset[]
+}

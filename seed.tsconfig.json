@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./prisma",
+    "rootDir": "./prisma",
+    "baseUrl": "./prisma",
+    "module": "esnext",
+    "noEmit": false,
+    "incremental": false
+  },
+  "include": ["./prisma/**/*.ts", "./prisma/**/*.mts"]
+}

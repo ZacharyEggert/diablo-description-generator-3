@@ -1,0 +1,5410 @@
+{
+  "bodyShape": [],
+  "bodyType": [
+    {
+      "id": "cleudxdsu00gutlyov9059k1d",
+      "createdAt": "2023-03-04T19:56:16.543Z",
+      "updatedAt": "2023-03-04T19:55:53.852Z",
+      "name": "Solid",
+      "sortAs": null
+    },
+    {
+      "id": "cleudxdsv00gwtlyor7osdqz5",
+      "createdAt": "2023-03-04T19:56:16.543Z",
+      "updatedAt": "2023-03-04T19:55:54.008Z",
+      "name": "Semi-Hollow",
+      "sortAs": null
+    },
+    {
+      "id": "cleudxdsv00gytlyo39py4f3d",
+      "createdAt": "2023-03-04T19:56:16.543Z",
+      "updatedAt": "2023-03-04T19:55:54.174Z",
+      "name": "Hollow",
+      "sortAs": null
+    },
+    {
+      "id": "cleudxdsv00h0tlyokqtlqovw",
+      "createdAt": "2023-03-04T19:56:16.543Z",
+      "updatedAt": "2023-03-04T19:55:54.334Z",
+      "name": "Chambered",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwh4os0000ow0c8q4c7syz",
+      "createdAt": "2023-04-02T21:14:04.157Z",
+      "updatedAt": "2023-04-02T21:14:04.157Z",
+      "name": "Solid Single Piece",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwh8470002ow0cdg99baop",
+      "createdAt": "2023-04-02T21:14:08.600Z",
+      "updatedAt": "2023-04-02T21:14:08.600Z",
+      "name": "Solid 3 Piece",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwhcrh0004ow0c8dy2vcix",
+      "createdAt": "2023-04-02T21:14:14.621Z",
+      "updatedAt": "2023-04-02T21:14:14.621Z",
+      "name": "Solid 5 Piece",
+      "sortAs": null
+    }
+  ],
+  "bodyWood": [
+    {
+      "id": "cleudtqun00fmtlyox316g00y",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:51:57.372Z",
+      "name": "Mahogany",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtqun00fotlyo5m0e38r9",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:00.725Z",
+      "name": "Pine",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquo00fqtlyozqazt5sa",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:00.868Z",
+      "name": "Alder",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquo00fstlyozp5ta1ci",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.020Z",
+      "name": "Ash",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquo00futlyoqs3951a2",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.165Z",
+      "name": "Swamp Ash",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquo00fwtlyo3uhceamf",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.324Z",
+      "name": "Poplar",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquo00fytlyoweqztqa0",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.458Z",
+      "name": "Honduran Mahogany",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquo00g0tlyobefluk7f",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.619Z",
+      "name": "Korina",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtqup00g2tlyo821kioxn",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.768Z",
+      "name": "Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtqup00g4tlyo3bxikyz7",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:01.916Z",
+      "name": "Roasted Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtqup00g6tlyobmt8xjbd",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:02.067Z",
+      "name": "Rosewood",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtqup00g8tlyoxir8bgek",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:02.224Z",
+      "name": "Koa",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtqup00gatlyoufmv0aog",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:02.373Z",
+      "name": "Basswood",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquq00gctlyoqlqrvxe1",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:52:02.572Z",
+      "name": "Walnut",
+      "sortAs": null
+    },
+    {
+      "id": "cleudtquq00getlyof3d18dwu",
+      "createdAt": "2023-03-04T19:53:26.832Z",
+      "updatedAt": "2023-03-04T19:53:22.540Z",
+      "name": "Sassafras",
+      "sortAs": null
+    }
+  ],
+  "brand": [
+    {
+      "id": "cletd8zxv0004owqkzuaklc27",
+      "createdAt": "2023-03-04T02:49:32.660Z",
+      "updatedAt": "2023-03-04T02:48:28.138Z",
+      "name": "Guild",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxk000iowqk926u4nq3",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:09.221Z",
+      "name": "PRS",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxl000kowqkfrqzdw65",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:09.366Z",
+      "name": "Ibanez",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxl000mowqks0oc7q1p",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:09.495Z",
+      "name": "Washburn",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxl000oowqk1l0oa949",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:09.648Z",
+      "name": "Ernie Ball Music Man",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxl000qowqkey3x3x5w",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:09.800Z",
+      "name": "Dean",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxm000sowqkc5v0e3bw",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:09.978Z",
+      "name": "Kramer",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxm000uowqkkto4nsbi",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:45.879Z",
+      "name": "Knaggs",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxn000yowqkd4320gf2",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:46.183Z",
+      "name": "Peavey",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxn0012owqkmhudhqdf",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:58.522Z",
+      "name": "B.C. Rich",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdblxn0014owqkhtz5m6kh",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2023-03-04T02:50:58.672Z",
+      "name": "Rickenbacker",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdf1az001qowqk9zk7ms2k",
+      "createdAt": "2023-03-04T02:54:14.363Z",
+      "updatedAt": "2023-03-04T02:53:46.838Z",
+      "name": "G&L",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdf1az001sowqkazvb3sg2",
+      "createdAt": "2023-03-04T02:54:14.363Z",
+      "updatedAt": "2023-03-04T02:54:00.809Z",
+      "name": "Schecter",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletdf1az001uowqk5n63lwpk",
+      "createdAt": "2023-03-04T02:54:14.363Z",
+      "updatedAt": "2023-03-04T02:54:00.950Z",
+      "name": "Caparison",
+      "finishId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cletd7e8w0000owqk8am1zcgz",
+      "createdAt": "2023-03-04T02:48:17.888Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "Gibson",
+      "finishId": null,
+      "sortAs": "_Gibson"
+    },
+    {
+      "id": "cletd7l5c0002owqkss4kdkks",
+      "createdAt": "2023-03-04T02:48:26.833Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "Fender",
+      "finishId": null,
+      "sortAs": "_Fender"
+    },
+    {
+      "id": "cletd8zxw0006owqkxip45xyn",
+      "createdAt": "2023-03-04T02:49:32.660Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "Gretsch",
+      "finishId": null,
+      "sortAs": "_Gretsch"
+    },
+    {
+      "id": "cletd8zxw000cowqk4wpcf4h2",
+      "createdAt": "2023-03-04T02:49:32.660Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "Charvel",
+      "finishId": null,
+      "sortAs": "_Charvel"
+    },
+    {
+      "id": "cletd8zxx000eowqkg515p69d",
+      "createdAt": "2023-03-04T02:49:32.660Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "Jackson",
+      "finishId": null,
+      "sortAs": "_Jackson"
+    },
+    {
+      "id": "cletdblxk000gowqki1iubczs",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "ESP",
+      "finishId": null,
+      "sortAs": "_ESP"
+    },
+    {
+      "id": "cletdblxm000wowqkgugt00hi",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "EVH",
+      "finishId": null,
+      "sortAs": "_EVH"
+    },
+    {
+      "id": "cletdblxo0016owqkqhih4jcp",
+      "createdAt": "2023-03-04T02:51:34.473Z",
+      "updatedAt": "2024-07-13T16:27:00.632Z",
+      "name": "LTD",
+      "finishId": null,
+      "sortAs": "_ESPLTD"
+    }
+  ],
+  "bridgeBrand": [
+    {
+      "id": "cletelrcm002wowhgjjf8wnfy",
+      "createdAt": "2023-03-04T03:27:27.671Z",
+      "updatedAt": "2023-03-04T03:24:25.137Z",
+      "name": "Fender",
+      "sortAs": null
+    },
+    {
+      "id": "cletelrcn002yowhg9vtexdq7",
+      "createdAt": "2023-03-04T03:27:27.671Z",
+      "updatedAt": "2023-03-04T03:24:25.322Z",
+      "name": "Gibson",
+      "sortAs": null
+    },
+    {
+      "id": "cletelrcn0030owhgylqusxsc",
+      "createdAt": "2023-03-04T03:27:27.671Z",
+      "updatedAt": "2023-03-04T03:24:25.790Z",
+      "name": "Floyd Rose",
+      "sortAs": null
+    },
+    {
+      "id": "cletelrcn0032owhg69mq3bki",
+      "createdAt": "2023-03-04T03:27:27.671Z",
+      "updatedAt": "2023-03-04T03:24:26.124Z",
+      "name": "Kahler",
+      "sortAs": null
+    },
+    {
+      "id": "cletelrco0036owhgldc0siyp",
+      "createdAt": "2023-03-04T03:27:27.671Z",
+      "updatedAt": "2023-03-04T03:25:42.996Z",
+      "name": "Bigsby",
+      "sortAs": null
+    },
+    {
+      "id": "cletelrco0038owhg80f33ehu",
+      "createdAt": "2023-03-04T03:27:27.671Z",
+      "updatedAt": "2023-03-04T03:25:43.151Z",
+      "name": "Tone Pros",
+      "sortAs": null
+    },
+    {
+      "id": "cll77i8x20004mc0u2qx25cpn",
+      "createdAt": "2023-08-11T23:15:46.982Z",
+      "updatedAt": "2023-08-11T23:15:46.982Z",
+      "name": "Hipshot",
+      "sortAs": null
+    },
+    {
+      "id": "cll77issj0006mc0urxe8ue80",
+      "createdAt": "2023-08-11T23:16:12.738Z",
+      "updatedAt": "2023-08-11T23:16:12.738Z",
+      "name": "Schaller",
+      "sortAs": null
+    },
+    {
+      "id": "cll77izy40008mc0ucdnt6a7u",
+      "createdAt": "2023-08-11T23:16:22.013Z",
+      "updatedAt": "2023-08-11T23:16:22.013Z",
+      "name": "Gotoh",
+      "sortAs": null
+    },
+    {
+      "id": "clw5828ac001smc0zgvtr606a",
+      "createdAt": "2024-05-13T17:12:32.629Z",
+      "updatedAt": "2024-05-13T17:12:32.629Z",
+      "name": "Ibanez",
+      "sortAs": null
+    }
+  ],
+  "bridgeModel": [
+    {
+      "id": "cll1carsa0058mc1639mqroo0",
+      "createdAt": "2023-08-07T20:43:19.210Z",
+      "updatedAt": "2024-07-12T00:49:05.199Z",
+      "name": "Original Double Locking Tremolo",
+      "BridgeBrandId": "cletelrcn0030owhgylqusxsc",
+      "sortAs": null
+    },
+    {
+      "id": "cm0vg1dcn0001mc0zz4oue9mt",
+      "createdAt": "2024-09-09T20:16:39.364Z",
+      "updatedAt": "2024-09-09T20:16:39.364Z",
+      "name": "1000 Series Double Locking Tremolo",
+      "BridgeBrandId": "cletelrcn0030owhgylqusxsc",
+      "sortAs": null
+    },
+    {
+      "id": "cll1carsb005amc16lrq7whl3",
+      "createdAt": "2023-08-07T20:43:19.210Z",
+      "updatedAt": "2023-08-07T20:37:37.084Z",
+      "name": "Original Limited 1984 Tremolo",
+      "BridgeBrandId": "cletelrcn0030owhgylqusxsc",
+      "sortAs": null
+    },
+    {
+      "id": "clffxcpkf000dowwgzf6jb4n6",
+      "createdAt": "2023-03-19T21:43:14.031Z",
+      "updatedAt": "2024-02-02T19:22:46.460Z",
+      "name": "ABR-1 Tune-O-Matic Bridge",
+      "BridgeBrandId": "cletelrcn002yowhg9vtexdq7",
+      "sortAs": null
+    },
+    {
+      "id": "cll1c31hm0056mc164xrt3fig",
+      "createdAt": "2023-08-07T20:37:18.539Z",
+      "updatedAt": "2024-02-02T19:22:46.460Z",
+      "name": "Nashville Tune-O-Matic Bridge",
+      "BridgeBrandId": "cletelrcn002yowhg9vtexdq7",
+      "sortAs": null
+    }
+  ],
+  "case": [
+    {
+      "id": "cletf4e8q0060owhgnnw3xj4p",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:40:22.637Z",
+      "name": "Original Hard Shell Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8q0062owhg7o0num1w",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:40:32.163Z",
+      "name": "Original Soft Shell Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8q0064owhgby2yk822",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:40:32.298Z",
+      "name": "Original Polyfoam Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8q0066owhgegctlh3k",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:40:32.444Z",
+      "name": "Hard Shell Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8r0068owhgyirm43dy",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:40:32.579Z",
+      "name": "Soft Shell Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8r006aowhgcazl1x3k",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:40:32.710Z",
+      "name": "Polyfoam Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8r006cowhg2o3c0r6w",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:41:03.904Z",
+      "name": "Original Gigbag",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8s006eowhgj34vxxw6",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:41:04.048Z",
+      "name": "Gigbag",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8s006gowhgfexhtqei",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:41:04.177Z",
+      "name": "Gator Hardshell Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8s006iowhg69iqmuwi",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:41:04.323Z",
+      "name": "Original Lifton Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4e8s006kowhglljqikdx",
+      "createdAt": "2023-03-04T03:41:57.146Z",
+      "updatedAt": "2023-03-04T03:41:04.459Z",
+      "name": "Original Chainsaw Case",
+      "sortAs": null
+    },
+    {
+      "id": "cletf4lw6006mowhgflvlydnx",
+      "createdAt": "2023-03-04T03:42:07.063Z",
+      "updatedAt": "2023-03-04T03:42:02.469Z",
+      "name": "Flight Case",
+      "sortAs": null
+    }
+  ],
+  "condition": [
+    {
+      "id": "cletemyyl003aowhg2kcyc6cv",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "New",
+      "sortAs": "a"
+    },
+    {
+      "id": "cletemyyl003cowhgjhh99pgv",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Mint",
+      "sortAs": "b"
+    },
+    {
+      "id": "cletemyym003eowhgfxm46k82",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Excellent",
+      "sortAs": "c"
+    },
+    {
+      "id": "cletemyym003gowhgjleh7ffl",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Very Good",
+      "sortAs": "d"
+    },
+    {
+      "id": "cletemyym003iowhgcrommi6l",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Good",
+      "sortAs": "e"
+    },
+    {
+      "id": "cletemyym003kowhgndqtpruo",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Fair",
+      "sortAs": "f"
+    },
+    {
+      "id": "cletemyyn003mowhg7i18zmmy",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Poor",
+      "sortAs": "g"
+    },
+    {
+      "id": "cletemyyn003oowhge0pcevcz",
+      "createdAt": "2023-03-04T03:28:24.190Z",
+      "updatedAt": "2023-04-02T21:10:39.786Z",
+      "name": "Non-Functioning",
+      "sortAs": "h"
+    }
+  ],
+  "country": [
+    {
+      "id": "cletde6no0018owqkieu3i1jt",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:07.971Z",
+      "name": "The USA",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6no001aowqkpspsr536",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:12.874Z",
+      "name": "Korea",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6no001cowqkoi3dtm06",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.028Z",
+      "name": "The UK",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6np001eowqkty2qpu41",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.165Z",
+      "name": "China",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6np001gowqkgoji859y",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.302Z",
+      "name": "Japan",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6np001iowqk7fctjwjt",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.449Z",
+      "name": "Mexico",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6np001kowqkwt2o974c",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.600Z",
+      "name": "Indonesia",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6nq001mowqkkbofi44q",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.754Z",
+      "name": "Vietnam",
+      "sortAs": null
+    },
+    {
+      "id": "cletde6nq001oowqk6xm3l4u9",
+      "createdAt": "2023-03-04T02:53:34.644Z",
+      "updatedAt": "2023-03-04T02:52:13.914Z",
+      "name": "Germany",
+      "sortAs": null
+    },
+    {
+      "id": "cll77gxty0002mc0urwiej3vx",
+      "createdAt": "2023-08-11T23:14:45.959Z",
+      "updatedAt": "2023-08-11T23:14:45.959Z",
+      "name": "Poland",
+      "sortAs": null
+    }
+  ],
+  "fingerBoard": [
+    {
+      "id": "cletfa8bt006oowhgngh19crl",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:16.417Z",
+      "name": "Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bu006qowhglrveswsw",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:16.574Z",
+      "name": "Rosewood",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bu006sowhgm2imqmqb",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:16.711Z",
+      "name": "Brazilian Rosewood",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bu006uowhg5hzftbru",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:16.848Z",
+      "name": "Honduran Rosewood",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bv006wowhgwpveizae",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:16.992Z",
+      "name": "Indian Rosewood",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bv006yowhgidum4fw6",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.121Z",
+      "name": "Pau Ferro",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bv0070owhgn13d7as9",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.255Z",
+      "name": "Ebony",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bv0072owhgogeowuq0",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.396Z",
+      "name": "Macassar Ebony",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bw0074owhgxx5ptooz",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.521Z",
+      "name": "Brazilian Ebony",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bw0076owhgiwivm92q",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.678Z",
+      "name": "African Ebony",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bw0078owhg6ugucpfi",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.835Z",
+      "name": "Pale Moon Ebony",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bw007aowhgzjlq8xuj",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:17.996Z",
+      "name": "Flamed Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bx007cowhgf8r75r7d",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:18.141Z",
+      "name": "Figured Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bx007eowhgl2bmf2oq",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:18.287Z",
+      "name": "Birdseye Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8bx007gowhge6voxt1d",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:42:18.422Z",
+      "name": "Quilted Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8by007iowhg14akvdr1",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:44:31.186Z",
+      "name": "Roasted Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8by007kowhg59tb2qw7",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:44:31.335Z",
+      "name": "Laurel",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8by007oowhg2bbnps59",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:44:31.628Z",
+      "name": "Wenge",
+      "sortAs": null
+    },
+    {
+      "id": "cletfa8c0007yowhgz5jh67p4",
+      "createdAt": "2023-03-04T03:46:29.418Z",
+      "updatedAt": "2023-03-04T03:45:26.519Z",
+      "name": "Richlite",
+      "sortAs": null
+    }
+  ],
+  "finish": [
+    {
+      "id": "clffxxyob000lowwgss1avzbh",
+      "createdAt": "2023-03-19T21:59:45.612Z",
+      "updatedAt": "2023-03-19T21:59:45.612Z",
+      "name": "Candy Apple Red",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clffxy4oh000nowwg3hl9ipk5",
+      "createdAt": "2023-03-19T21:59:53.393Z",
+      "updatedAt": "2023-03-19T21:59:53.393Z",
+      "name": "Candy Apple Green",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clffxyykq000powwg008wswux",
+      "createdAt": "2023-03-19T22:00:32.138Z",
+      "updatedAt": "2023-03-19T22:00:32.138Z",
+      "name": "Pelham Blue",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clffxzv48000rowwg7i5vizx5",
+      "createdAt": "2023-03-19T22:01:14.312Z",
+      "updatedAt": "2023-03-19T22:01:14.312Z",
+      "name": "Inverness Green",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clffy2kcq000towwg64er1i1y",
+      "createdAt": "2023-03-19T22:03:20.330Z",
+      "updatedAt": "2023-03-19T22:03:20.330Z",
+      "name": "Sunburst",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clffy2v0d000vowwgt3u30piq",
+      "createdAt": "2023-03-19T22:03:34.141Z",
+      "updatedAt": "2023-03-19T22:03:34.141Z",
+      "name": "3 Tone Sunburst",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clffy31dw000xowwgz38f9niy",
+      "createdAt": "2023-03-19T22:03:42.404Z",
+      "updatedAt": "2023-03-19T22:03:42.404Z",
+      "name": "2 Tone Sunburst",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clffy3rx7000zowwgnr6j6peu",
+      "createdAt": "2023-03-19T22:04:16.795Z",
+      "updatedAt": "2023-03-19T22:04:16.795Z",
+      "name": "Tobacco Burst",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clffy3vvh0011owwg92iky4c1",
+      "createdAt": "2023-03-19T22:04:21.917Z",
+      "updatedAt": "2023-03-19T22:04:21.917Z",
+      "name": "Sienna Burst",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clffy41ay0013owwg8guvrv99",
+      "createdAt": "2023-03-19T22:04:28.955Z",
+      "updatedAt": "2023-03-19T22:04:28.955Z",
+      "name": "Gold Top",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clffy461p0015owwgss5jhgwv",
+      "createdAt": "2023-03-19T22:04:35.101Z",
+      "updatedAt": "2023-03-19T22:04:35.101Z",
+      "name": "Aztec Gold",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clffy4d7t0017owwgrpyn50ul",
+      "createdAt": "2023-03-19T22:04:44.393Z",
+      "updatedAt": "2023-03-19T22:04:44.393Z",
+      "name": "Seafoam Green",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cll17mlel0001tlxg34g596hs",
+      "createdAt": "2023-08-07T18:32:32.671Z",
+      "updatedAt": "2023-08-07T18:32:32.671Z",
+      "name": "Ebony",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cll17mqsy0003tlxgi25n6rz2",
+      "createdAt": "2023-08-07T18:32:39.730Z",
+      "updatedAt": "2023-08-07T18:32:39.730Z",
+      "name": "Black Beauty",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    }
+  ],
+  "finishType": [
+    {
+      "id": "cleu9jrkp004ktlyo9ci6la6a",
+      "createdAt": "2023-03-04T17:53:42.746Z",
+      "updatedAt": "2023-03-04T17:53:11.007Z",
+      "name": "Nitrocellulose",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9jrkq004mtlyom0wisqri",
+      "createdAt": "2023-03-04T17:53:42.746Z",
+      "updatedAt": "2023-03-04T17:53:11.146Z",
+      "name": "Polyurethane",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9jrkq004otlyo2yx7qenk",
+      "createdAt": "2023-03-04T17:53:42.746Z",
+      "updatedAt": "2023-03-04T17:53:11.304Z",
+      "name": "Urethane",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9jrkq004qtlyosxlrsgvm",
+      "createdAt": "2023-03-04T17:53:42.746Z",
+      "updatedAt": "2023-03-04T17:53:11.453Z",
+      "name": "Polyester",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9jrkq004stlyovamnwjfd",
+      "createdAt": "2023-03-04T17:53:42.746Z",
+      "updatedAt": "2023-03-04T17:53:11.605Z",
+      "name": "VOS Nitrocellulose",
+      "sortAs": null
+    },
+    {
+      "id": "cll77og1t000kmc0u6aio9f12",
+      "createdAt": "2023-08-11T23:20:36.160Z",
+      "updatedAt": "2023-08-11T23:20:36.160Z",
+      "name": "Oiled",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx5jah0010mc0zd63jkyax",
+      "createdAt": "2024-05-03T00:10:38.440Z",
+      "updatedAt": "2024-05-03T00:10:38.440Z",
+      "name": "High-Gloss Nitro",
+      "sortAs": null
+    }
+  ],
+  "fretCount": [
+    {
+      "id": "cleu8gdkl0000tlyox85km6cs",
+      "createdAt": "2023-03-04T17:23:05.014Z",
+      "updatedAt": "2023-03-04T17:22:48.414Z",
+      "name": "21",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8gdkm0002tlyoglsufg5f",
+      "createdAt": "2023-03-04T17:23:05.014Z",
+      "updatedAt": "2023-03-04T17:22:48.555Z",
+      "name": "22",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8gdkm0004tlyodb1i5nv8",
+      "createdAt": "2023-03-04T17:23:05.014Z",
+      "updatedAt": "2023-03-04T17:22:48.698Z",
+      "name": "24",
+      "sortAs": null
+    },
+    {
+      "id": "clfzv9mjo0000owlg0ql6od15",
+      "createdAt": "2023-04-02T20:40:14.435Z",
+      "updatedAt": "2023-04-02T20:40:14.435Z",
+      "name": "19",
+      "sortAs": null
+    },
+    {
+      "id": "clfzvafi00002owlg84olc6lw",
+      "createdAt": "2023-04-02T20:40:51.961Z",
+      "updatedAt": "2023-04-02T20:40:51.961Z",
+      "name": "20",
+      "sortAs": null
+    },
+    {
+      "id": "clfzvc2cj0004owlgx9u88a1d",
+      "createdAt": "2023-04-02T20:42:08.227Z",
+      "updatedAt": "2023-04-02T20:42:08.227Z",
+      "name": "18",
+      "sortAs": null
+    }
+  ],
+  "fretwire": [
+    {
+      "id": "cleu8kg910006tlyorvgwysx1",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:23:18.008Z",
+      "name": "Narrow Tall",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg910008tlyomm0anxos",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:23:18.601Z",
+      "name": "Medium",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg92000atlyoxpl7f86s",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:23:18.743Z",
+      "name": "Medium Tall",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg92000ctlyoj436masy",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:23:18.901Z",
+      "name": "Jumbo",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg92000etlyobc920vol",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:24:56.168Z",
+      "name": "Medium Jumbo",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg92000gtlyog6oilt9l",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:24:56.313Z",
+      "name": "Extra Jumbo",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg92000itlyoz5j7iped",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:24:56.456Z",
+      "name": "Medium Stainless",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg93000otlyokzx7x7l4",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:24:56.950Z",
+      "name": "'Fretless Wonder'",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg93000qtlyoiyeyvtrj",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2023-03-04T17:24:57.102Z",
+      "name": "Vintage Spec",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg92000ktlyolt0qrmch",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2024-07-12T00:51:32.291Z",
+      "name": "Jumbo Stainless Steel",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8kg93000mtlyoc88t4yfd",
+      "createdAt": "2023-03-04T17:26:15.110Z",
+      "updatedAt": "2024-07-12T00:51:32.291Z",
+      "name": "Extra Jumbo Stainless Steel",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzgp1k0000mc1gkch33rpq",
+      "createdAt": "2024-07-12T00:52:15.944Z",
+      "updatedAt": "2024-07-12T00:51:49.725Z",
+      "name": "",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzh2iu0004mc1grrd3e7ob",
+      "createdAt": "2024-07-12T00:52:33.414Z",
+      "updatedAt": "2024-07-12T00:52:18.912Z",
+      "name": "Vintage",
+      "sortAs": null
+    }
+  ],
+  "hardware": [
+    {
+      "id": "cleu8xfqe0026tlyo61a7vhdx",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:29.332Z",
+      "name": "Nickel",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqe0028tlyobdkk29l3",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:29.489Z",
+      "name": "Aged Nickel",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqf002atlyovqszy2oi",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:29.662Z",
+      "name": "Gold",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqf002ctlyof98zmbo1",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:29.950Z",
+      "name": "Aged Gold",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqg002etlyo5kexix0h",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:30.103Z",
+      "name": "Chrome",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqg002gtlyogezm4hek",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:30.322Z",
+      "name": "Aged Chrome",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqh002itlyog61hr8nx",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:46.538Z",
+      "name": "Black Chrome",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqh002ktlyo2v52ksdb",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:46.679Z",
+      "name": "Aged Black Chrome",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqh002mtlyoin2kavm6",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:35:46.830Z",
+      "name": "Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8xfqi002otlyogqjed147",
+      "createdAt": "2023-03-04T17:36:20.966Z",
+      "updatedAt": "2023-03-04T17:36:26.862Z",
+      "name": "Aged Black",
+      "sortAs": null
+    },
+    {
+      "id": "cll77fwpt0018mc0uewdwfupu",
+      "createdAt": "2023-08-11T23:13:57.857Z",
+      "updatedAt": "2023-08-11T23:13:57.857Z",
+      "name": "Cosmo Black",
+      "sortAs": null
+    },
+    {
+      "id": "cll77geci0000mc0ucnaow784",
+      "createdAt": "2023-08-11T23:14:20.707Z",
+      "updatedAt": "2023-08-11T23:14:20.707Z",
+      "name": "Satin Black",
+      "sortAs": null
+    },
+    {
+      "id": "clvpwvzrn000amc0zu53ioq5g",
+      "createdAt": "2024-05-03T00:03:13.235Z",
+      "updatedAt": "2024-05-03T00:03:13.235Z",
+      "name": "Nickel/Chrome",
+      "sortAs": null
+    }
+  ],
+  "inlayMaterial": [
+    {
+      "id": "cleu9nb8x004utlyo8uo0wqq5",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:00.162Z",
+      "name": "White Micarta",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8y004ytlyoo4czae0k",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:01.089Z",
+      "name": "Pearloid",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8y0050tlyo30zrfl8x",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:01.239Z",
+      "name": "Abalone",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8y0052tlyoi1n10pdz",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:01.404Z",
+      "name": "Mother of Pearl",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8y0054tlyodg6pmtmo",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:01.569Z",
+      "name": "Acrylic",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8y0056tlyovijusv85",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:01.719Z",
+      "name": "Sterling Silver",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8z0058tlyos8lrfqwc",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:01.891Z",
+      "name": "Sterling Silver Outlined",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9nb8z005atlyoukjr03fj",
+      "createdAt": "2023-03-04T17:56:28.210Z",
+      "updatedAt": "2023-03-04T17:54:02.056Z",
+      "name": "Gold Outlined",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx7qbw0018mc0zm4euf8vg",
+      "createdAt": "2024-05-03T00:12:20.876Z",
+      "updatedAt": "2024-05-03T00:12:20.876Z",
+      "name": "Black",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx80l9001amc0zwx7eopmz",
+      "createdAt": "2024-05-03T00:12:34.173Z",
+      "updatedAt": "2024-05-03T00:12:34.173Z",
+      "name": "White",
+      "sortAs": null
+    }
+  ],
+  "inlays": [
+    {
+      "id": "cleu9trd8005ctlyo5709apkf",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:36.645Z",
+      "name": "Trapezoid",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trd9005etlyobf67eai9",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:36.793Z",
+      "name": "Dot",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trd9005gtlyolfcuu1t7",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:36.927Z",
+      "name": "Block",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trd9005itlyoelzon3kb",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:37.102Z",
+      "name": "Split Diamond",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trda005ktlyoubxwtm9s",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:37.243Z",
+      "name": "Birds",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trda005mtlyoxheuwaxn",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:37.408Z",
+      "name": "Sharkfin",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trda005otlyovji4lv69",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:37.565Z",
+      "name": "Reverse Sharkfin",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9trda005qtlyopm8kkecm",
+      "createdAt": "2023-03-04T18:01:29.037Z",
+      "updatedAt": "2023-03-04T17:56:37.963Z",
+      "name": "Piranha Tooth",
+      "sortAs": null
+    },
+    {
+      "id": "cleuaj2p1005stlyop76qoz24",
+      "createdAt": "2023-03-04T18:21:10.117Z",
+      "updatedAt": "2023-03-04T18:01:33.888Z",
+      "name": "No",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx4oeu000ymc0zvq3j53jr",
+      "createdAt": "2024-05-03T00:09:58.421Z",
+      "updatedAt": "2024-05-03T00:09:58.421Z",
+      "name": "Outlined Birds",
+      "sortAs": null
+    },
+    {
+      "id": "clyaiagt10000mc0yxskhrymd",
+      "createdAt": "2024-07-06T19:17:08.629Z",
+      "updatedAt": "2024-07-06T19:17:08.629Z",
+      "name": "Split Flag",
+      "sortAs": null
+    },
+    {
+      "id": "clyaldhzd000emc0y9opg4fj1",
+      "createdAt": "2024-07-06T20:43:28.969Z",
+      "updatedAt": "2024-07-06T20:43:28.969Z",
+      "name": "Flag",
+      "sortAs": null
+    }
+  ],
+  "knobs": [
+    {
+      "id": "cleudjhun00d0tlyo2658s146",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Black Top Hat",
+      "sortAs": "TopHatBlack"
+    },
+    {
+      "id": "cleudjhun00d2tlyoiewzmhty",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "White Top Hat",
+      "sortAs": "TopHatWhite"
+    },
+    {
+      "id": "cleudjhun00d4tlyoxxqselo6",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Clear Top Hat",
+      "sortAs": "TopHatClear"
+    },
+    {
+      "id": "cleudjhun00d6tlyo2usbptvl",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Cream Top Hat",
+      "sortAs": "TopHatCream"
+    },
+    {
+      "id": "cleudjhuo00d8tlyo9vy0m0xv",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Amber Top Hat",
+      "sortAs": "TopHatAmber"
+    },
+    {
+      "id": "cleudjhuo00datlyojg6uig06",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Gold Top Hat",
+      "sortAs": "TopHatGold"
+    },
+    {
+      "id": "cleudjhuo00dctlyonw4srsec",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Black Speed",
+      "sortAs": "SpeedBlack"
+    },
+    {
+      "id": "clvpwxfvn000gmc0zvlrf02ju",
+      "createdAt": "2024-05-03T00:04:20.771Z",
+      "updatedAt": "2024-07-11T20:12:12.678Z",
+      "name": "Black Knurled Flat Top",
+      "sortAs": "KnurledFlatBlack"
+    },
+    {
+      "id": "clvpwxp3f000imc0zvc2e71qc",
+      "createdAt": "2024-05-03T00:04:32.712Z",
+      "updatedAt": "2024-07-11T20:12:12.678Z",
+      "name": "Gold Knurled Flat Top",
+      "sortAs": "KnurledFlatGold"
+    },
+    {
+      "id": "clvpx1fbj000qmc0zhhnpi7jf",
+      "createdAt": "2024-05-03T00:07:26.671Z",
+      "updatedAt": "2024-07-13T16:25:09.456Z",
+      "name": "Cosmo Black Knurled Dome",
+      "sortAs": "KnurledDomeCosmoBlack"
+    },
+    {
+      "id": "clvpxd8y4001qmc0z3gglaoxe",
+      "createdAt": "2024-05-03T00:16:38.283Z",
+      "updatedAt": "2024-07-13T16:25:09.456Z",
+      "name": "Brass Knurled Dome",
+      "sortAs": "KnurledDomeBrass"
+    },
+    {
+      "id": "clvpx095f000kmc0zqw33o1jt",
+      "createdAt": "2024-05-03T00:06:32.015Z",
+      "updatedAt": "2024-07-13T16:25:35.440Z",
+      "name": "Clear Lamp Shade",
+      "sortAs": "LampShadeClear"
+    },
+    {
+      "id": "clvpx0fgc000mmc0z6a0oq6u1",
+      "createdAt": "2024-05-03T00:06:40.189Z",
+      "updatedAt": "2024-07-13T16:25:35.440Z",
+      "name": "Gold Lamp Shade",
+      "sortAs": "LampShadeGold"
+    },
+    {
+      "id": "clvpx0n2e000omc0zp1zylk5g",
+      "createdAt": "2024-05-03T00:06:50.050Z",
+      "updatedAt": "2024-07-13T16:25:35.440Z",
+      "name": "Amber Lamp Shade",
+      "sortAs": "LampShadeAmber"
+    },
+    {
+      "id": "cleudmfrz00e4tlyosxfqdcxv",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Top Hat Reflector",
+      "sortAs": "TopHatReflector"
+    },
+    {
+      "id": "cleudmfrz00e6tlyo0qd9gjhh",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-02-03T18:30:28.909Z",
+      "name": "Witch Hat",
+      "sortAs": "TopHatWitchHat"
+    },
+    {
+      "id": "cleudjhuo00detlyo170dcj9o",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:59.531Z",
+      "name": "White Speed",
+      "sortAs": "SpeedWhite"
+    },
+    {
+      "id": "cleudjhuo00dgtlyoz2grroxt",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:59.531Z",
+      "name": "Clear Speed",
+      "sortAs": "SpeedClear"
+    },
+    {
+      "id": "cleudjhuo00ditlyovcsjutcq",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:59.531Z",
+      "name": "Cream Speed",
+      "sortAs": "SpeedCream"
+    },
+    {
+      "id": "cleudjhup00dktlyo5r2lnydr",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:59.531Z",
+      "name": "Amber Speed",
+      "sortAs": "SpeedAmber"
+    },
+    {
+      "id": "cleudjhup00dmtlyof94katlb",
+      "createdAt": "2023-03-04T19:45:28.607Z",
+      "updatedAt": "2024-02-03T18:30:59.531Z",
+      "name": "Gold Speed",
+      "sortAs": "SpeedGold"
+    },
+    {
+      "id": "cleudmfrx00dotlyo5ofo7ysf",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Chrome Knurled",
+      "sortAs": "KnurledChrome"
+    },
+    {
+      "id": "cleudmfry00dqtlyoxe44xzhl",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Chrome Knurled Dome",
+      "sortAs": "KnurledDomeChrome"
+    },
+    {
+      "id": "cleudmfry00dstlyor41weekn",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Black Knurled",
+      "sortAs": "KnurledBlack"
+    },
+    {
+      "id": "cleudmfry00dutlyolgqoewz5",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Black Knurled Dome",
+      "sortAs": "KnurledDomeBlack"
+    },
+    {
+      "id": "cleudmfry00dwtlyo89lk84bb",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Black Chrome Knurled",
+      "sortAs": "KnurledBlackChrome"
+    },
+    {
+      "id": "cleudmfry00dytlyoz5jdeuks",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Black Chrome Knurled Dome",
+      "sortAs": "KnurledDomeBlackChrome"
+    },
+    {
+      "id": "cleudmfry00e0tlyozhqvilmq",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Gold Knurled",
+      "sortAs": "KnurledGold"
+    },
+    {
+      "id": "cleudmfrz00e2tlyo1bx6iqlr",
+      "createdAt": "2023-03-04T19:47:45.886Z",
+      "updatedAt": "2024-07-11T20:11:05.241Z",
+      "name": "Gold Knurled Dome",
+      "sortAs": "KnurledDomeGold"
+    },
+    {
+      "id": "clvpwws9b000cmc0zptq1m8p3",
+      "createdAt": "2024-05-03T00:03:50.158Z",
+      "updatedAt": "2024-07-11T20:12:12.678Z",
+      "name": "Chrome Knurled Flat Top",
+      "sortAs": "KnurledFlatChrome"
+    },
+    {
+      "id": "clvpwx5w9000emc0zvyaz1onv",
+      "createdAt": "2024-05-03T00:04:07.832Z",
+      "updatedAt": "2024-07-11T20:12:12.678Z",
+      "name": "Nickel Knurled Flat Top",
+      "sortAs": "KnurledFlatNickel"
+    }
+  ],
+  "mod": [
+    {
+      "id": "cleudvwlm00ggtlyo1aee4wbs",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:41.595Z",
+      "name": "Refinished",
+      "sortAs": null
+    },
+    {
+      "id": "cleudvwln00gitlyocphvdlg6",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:42.043Z",
+      "name": "Upgraded Pickups",
+      "sortAs": null
+    },
+    {
+      "id": "cleudvwln00gktlyoiyq86txz",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:42.194Z",
+      "name": "FU Tone Upgrades",
+      "sortAs": null
+    },
+    {
+      "id": "cleudvwln00gmtlyogktzusak",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:42.327Z",
+      "name": "Refretted",
+      "sortAs": null
+    },
+    {
+      "id": "cleudvwlo00gotlyo1lt2e5sk",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:42.492Z",
+      "name": "Restoration",
+      "sortAs": null
+    },
+    {
+      "id": "cleudvwlo00gqtlyoz35mi25v",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:42.680Z",
+      "name": "Resto-mod",
+      "sortAs": null
+    },
+    {
+      "id": "cleudvwlo00gstlyodch3ir7v",
+      "createdAt": "2023-03-04T19:55:07.595Z",
+      "updatedAt": "2023-03-04T19:53:43.103Z",
+      "name": "Upgraded Tuning Machines",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwnslh000mow0cjrg5xapz",
+      "createdAt": "2023-04-02T21:19:15.077Z",
+      "updatedAt": "2023-04-02T21:19:15.077Z",
+      "name": "Diablo Mod Shop Edition",
+      "sortAs": null
+    },
+    {
+      "id": "cll15q6hm0000mc0ufzlxfmkf",
+      "createdAt": "2023-08-07T17:39:20.741Z",
+      "updatedAt": "2023-08-07T17:39:20.741Z",
+      "name": "Upgraded Pots",
+      "sortAs": null
+    }
+  ],
+  "model": [
+    {
+      "id": "cletdtwo20000owhg9uzsbdo3",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:10.540Z",
+      "name": "Les Paul",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo30002owhg5mzg9yp2",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:10.710Z",
+      "name": "SG",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo30004owhgnio8ns57",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:10.854Z",
+      "name": "ES-335",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo30006owhgw65f85s8",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.007Z",
+      "name": "CS-336",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo40008owhgtd3aycaq",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.197Z",
+      "name": "ES-339",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo4000aowhgiinb6cq0",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.370Z",
+      "name": "ES-345",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo4000cowhgpe2o1klg",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.514Z",
+      "name": "ES-355",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo5000eowhg3ineyoab",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.661Z",
+      "name": "Explorer",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo5000gowhgavjq8iv4",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.809Z",
+      "name": "Flying V",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo5000iowhgfva6t18h",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:11.954Z",
+      "name": "ES-330",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo6000kowhgoo4ojxf5",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:12.116Z",
+      "name": "Firebird",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo6000mowhg6h3b0qie",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:12.288Z",
+      "name": "ES-235",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo6000oowhgpfj1obpf",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:12.450Z",
+      "name": "Nighthawk",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo7000qowhghfg8xego",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:12.598Z",
+      "name": "Spirit",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdtwo7000sowhghxjueetw",
+      "createdAt": "2023-03-04T03:05:48.195Z",
+      "updatedAt": "2023-03-04T03:00:12.763Z",
+      "name": "Zakk Wylde ZV",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83t000uowhg8181teqe",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:33.850Z",
+      "name": "Stratocaster",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83u000wowhg2ahxgdgw",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:35.848Z",
+      "name": "Telecaster",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83u000yowhg8pt5cf8m",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:36.023Z",
+      "name": "Jaguar",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83u0010owhg42vmk3y8",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:36.167Z",
+      "name": "Mustang",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83v0012owhggo55ioo7",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:36.312Z",
+      "name": "Starcaster",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83v0014owhg6wbg7xnm",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:36.472Z",
+      "name": "Musicmaster",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83v0016owhg99azjt7a",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:36.662Z",
+      "name": "Esquire",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "cletdx83w0018owhgrm828vrf",
+      "createdAt": "2023-03-04T03:08:22.986Z",
+      "updatedAt": "2023-03-04T03:06:36.815Z",
+      "name": "Broadcaster",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clete3087001aowhgyaem6yyt",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:41.529Z",
+      "name": "Soloist",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3087001cowhg5jmnsls0",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:41.677Z",
+      "name": "Dinky",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3088001eowhg9vm9va5w",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:41.821Z",
+      "name": "Fusion",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3088001gowhgnbkaxszy",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:41.970Z",
+      "name": "Rhoads",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3088001iowhgzn8xtuuz",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:42.151Z",
+      "name": "King V",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3089001kowhgrju4vkqc",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:42.350Z",
+      "name": "Kelly",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3089001mowhg9yznyx5d",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:09:42.527Z",
+      "name": "Warrior",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete3089001oowhgq1ee57ci",
+      "createdAt": "2023-03-04T03:12:52.711Z",
+      "updatedAt": "2023-03-04T03:12:26.052Z",
+      "name": "Signature",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clete80u9001qowhg0ogpxsck",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:13:09.108Z",
+      "name": "San Dimas",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clete80ua001sowhgdy8mczzk",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:13:09.534Z",
+      "name": "So-Cal",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clete80ua001uowhgmbrrmeob",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:13:10.108Z",
+      "name": "Model 1",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clete80ua001wowhghfcrkyad",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:13:10.584Z",
+      "name": "Model 2",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clete80ub001yowhgg9ddkcyr",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:13:10.809Z",
+      "name": "Model 3",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clete80ub0020owhgazwb247u",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:13:10.978Z",
+      "name": "Dinky",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clete80ub0022owhgduelj0xn",
+      "createdAt": "2023-03-04T03:16:46.786Z",
+      "updatedAt": "2023-03-04T03:14:46.651Z",
+      "name": "Signature",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkox0024owhgpqq6slkc",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:17:25.813Z",
+      "name": "M-II",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkox0026owhghskggysl",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:17:26.821Z",
+      "name": "Mirage",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkox0028owhglkshvnh6",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:17:26.972Z",
+      "name": "H-II",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkoy002aowhgm94oxk1j",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:18:05.237Z",
+      "name": "Horizon",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkoy002cowhgxcpce4uh",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:18:05.376Z",
+      "name": "Eclipse",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkoy002eowhggrexjmy7",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:18:05.513Z",
+      "name": "Signature",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkoz002gowhgc9k95wd6",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:18:05.674Z",
+      "name": "Potbelly",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkoz002iowhgo3vx8ft0",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:18:05.851Z",
+      "name": "Snapper",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletebkoz002kowhgz4ccgw6d",
+      "createdAt": "2023-03-04T03:19:32.481Z",
+      "updatedAt": "2023-03-04T03:19:15.190Z",
+      "name": "SN-II",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "cletefz4f002mowhgeaosq29t",
+      "createdAt": "2023-03-04T03:22:57.808Z",
+      "updatedAt": "2023-03-04T03:20:20.365Z",
+      "name": "Eclipse",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "cletefz4f002oowhg789gk399",
+      "createdAt": "2023-03-04T03:22:57.808Z",
+      "updatedAt": "2023-03-04T03:20:34.157Z",
+      "name": "Signature",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "cletefz4g002qowhgi69txv95",
+      "createdAt": "2023-03-04T03:22:57.808Z",
+      "updatedAt": "2023-03-04T03:20:34.312Z",
+      "name": "Phoenix",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "cletefz4g002sowhgesoivkvw",
+      "createdAt": "2023-03-04T03:22:57.808Z",
+      "updatedAt": "2023-03-04T03:20:34.499Z",
+      "name": "Arrow",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "cletefz4g002uowhg0szaqwkx",
+      "createdAt": "2023-03-04T03:22:57.808Z",
+      "updatedAt": "2023-03-04T03:20:34.657Z",
+      "name": "F",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "clevtx904001gowqsuqmbuigs",
+      "createdAt": "2023-03-05T20:11:50.356Z",
+      "updatedAt": "2023-03-05T20:11:33.475Z",
+      "name": "Jazzmaster",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clyair2ck000dmc0ymw8zkogc",
+      "createdAt": "2024-07-06T19:30:03.045Z",
+      "updatedAt": "2024-07-06T19:30:03.045Z",
+      "name": "Viper",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    }
+  ],
+  "neckFinish": [
+    {
+      "id": "cleudrjjv00eytlyodibf6frq",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:17.870Z",
+      "name": "Matching",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjv00f0tlyo22g4bhg0",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.017Z",
+      "name": "Tung Oil",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjv00f2tlyo2nf0jnfl",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.176Z",
+      "name": "Oiled",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjw00f4tlyodezu74oi",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.311Z",
+      "name": "Satin Matching",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjw00f6tlyojd6t50vl",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.468Z",
+      "name": "Satin Natural",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjw00f8tlyom26ji8v2",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.632Z",
+      "name": "Satin Polyurethane",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjw00fatlyo8o8jccw8",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.797Z",
+      "name": "Satin Nitrocellulose",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjw00fctlyobttorqi6",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:50:18.979Z",
+      "name": "Gloss Matching",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjw00fetlyo2ihn0fzg",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:51:09.524Z",
+      "name": "Gloss Natural",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjx00fgtlyo2ny6kxfb",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:51:09.686Z",
+      "name": "Gloss Polyurethane",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjx00fitlyonyva2eq4",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:51:09.843Z",
+      "name": "Gloss Nitrocellulose",
+      "sortAs": null
+    },
+    {
+      "id": "cleudrjjx00fktlyocjfy5lgp",
+      "createdAt": "2023-03-04T19:51:44.059Z",
+      "updatedAt": "2023-03-04T19:51:40.184Z",
+      "name": "Sanded",
+      "sortAs": null
+    },
+    {
+      "id": "clvpwveh10008mc0z9uy6sj8f",
+      "createdAt": "2024-05-03T00:02:45.637Z",
+      "updatedAt": "2024-05-03T00:02:45.637Z",
+      "name": "Hand Rubbed Satin Urethane",
+      "sortAs": null
+    }
+  ],
+  "neckJoint": [
+    {
+      "id": "cleucep3400aatlyosiswqcqb",
+      "createdAt": "2023-03-04T19:13:45.088Z",
+      "updatedAt": "2023-03-04T19:12:13.632Z",
+      "name": "Bolt On",
+      "sortAs": null
+    },
+    {
+      "id": "cleucep3400actlyo1a31p2ut",
+      "createdAt": "2023-03-04T19:13:45.088Z",
+      "updatedAt": "2023-03-04T19:12:13.801Z",
+      "name": "Set",
+      "sortAs": null
+    },
+    {
+      "id": "cleucep3400aetlyosfpzdjyv",
+      "createdAt": "2023-03-04T19:13:45.088Z",
+      "updatedAt": "2023-03-04T19:12:13.950Z",
+      "name": "Neck Through",
+      "sortAs": null
+    },
+    {
+      "id": "cleucep3400agtlyoh5lo21jl",
+      "createdAt": "2023-03-04T19:13:45.088Z",
+      "updatedAt": "2023-03-04T19:12:14.093Z",
+      "name": "Long Tenon Set",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx774l0016mc0zdnfln636",
+      "createdAt": "2024-05-03T00:11:55.988Z",
+      "updatedAt": "2024-05-03T00:11:55.988Z",
+      "name": "Set-Thru",
+      "sortAs": null
+    },
+    {
+      "id": "clyj6ssf90000mc0zwh19eymg",
+      "createdAt": "2024-07-12T21:05:23.678Z",
+      "updatedAt": "2024-07-12T21:05:23.678Z",
+      "name": "AANJ Bolt On",
+      "sortAs": null
+    }
+  ],
+  "neckProfile": [
+    {
+      "id": "cleucr46k00aktlyonowouonu",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Gibson '57",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46l00amtlyozr4fnp0u",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Gisbon '58",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46l00aotlyok0cbfzml",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Gibson '59",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46l00aqtlyofws7nzho",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Gibson '60",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46l00astlyops91xty3",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Gibson '60s",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46l00autlyoxrn8dk67",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Slim Taper",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46o00botlyo70no9jt5",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "Rounded",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46n00bitlyovg5b2x0j",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "PRS Pattern",
+      "brandId": "cletdblxk000iowqk926u4nq3",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46n00bktlyowi7woj81",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "PRS Pattern Thin",
+      "brandId": "cletdblxk000iowqk926u4nq3",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46n00bmtlyok6cgkcl9",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-19T20:06:19.451Z",
+      "name": "PRS Pattern Wide",
+      "brandId": "cletdblxk000iowqk926u4nq3",
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46l00awtlyo28lvowx0",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-04T19:14:00.085Z",
+      "name": "Medium C",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46m00b4tlyorxb27zmv",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-04T19:14:00.957Z",
+      "name": "Thin U",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46m00batlyopmy2wmry",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-04T19:14:01.474Z",
+      "name": "Slim D",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46m00bctlyo45b8c0le",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-04T19:14:01.669Z",
+      "name": "Soft V",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cleucr46n00bgtlyoyndvonoh",
+      "createdAt": "2023-03-04T19:23:24.525Z",
+      "updatedAt": "2023-03-04T19:14:01.997Z",
+      "name": "Asymmetrical",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "cll75mrip0018mc0uje8jl4nc",
+      "createdAt": "2023-08-11T22:23:18.478Z",
+      "updatedAt": "2023-08-11T22:23:18.478Z",
+      "name": "Speed",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "clvpx2jzb000smc0zslw0x3kd",
+      "createdAt": "2024-05-03T00:08:19.367Z",
+      "updatedAt": "2024-05-03T00:08:19.367Z",
+      "name": "50’s Rounded",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "clvpx33i2000umc0zn6vfxd4g",
+      "createdAt": "2024-05-03T00:08:44.665Z",
+      "updatedAt": "2024-05-03T00:08:44.665Z",
+      "name": "Wide Thin",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "clvpx3a6m000wmc0zzcfaid4q",
+      "createdAt": "2024-05-03T00:08:53.326Z",
+      "updatedAt": "2024-05-03T00:08:53.326Z",
+      "name": "Extra Thin U",
+      "brandId": null,
+      "sortAs": null
+    },
+    {
+      "id": "clydatekf0006mc0zwa6c8q2p",
+      "createdAt": "2024-07-08T18:11:13.791Z",
+      "updatedAt": "2024-07-08T18:11:13.791Z",
+      "name": "Standard",
+      "brandId": null,
+      "sortAs": null
+    }
+  ],
+  "neckRadius": [
+    {
+      "id": "cleudoska00e8tlyoo5kpasev",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:55.111Z",
+      "name": "7.25\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskb00eatlyokcnnnvsk",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:55.275Z",
+      "name": "9.5\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskb00ectlyou2gs76nk",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:55.395Z",
+      "name": "10\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskb00eetlyo1bhmrtyz",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:55.553Z",
+      "name": "12\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskb00egtlyotgrg4m6t",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:55.694Z",
+      "name": "14\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskb00eitlyonyd2ec1r",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:55.859Z",
+      "name": "15\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskc00ektlyors196nna",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:47:56.175Z",
+      "name": "16\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskc00emtlyo02h3nqrn",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:48:35.289Z",
+      "name": "20\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskc00eotlyo7ihttgfl",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:48:35.422Z",
+      "name": "Flat",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskc00eqtlyoftu0vpkx",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:48:35.566Z",
+      "name": "Compound 12\"-16\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskc00estlyorqijyf5a",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:48:35.716Z",
+      "name": "300mm",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskd00eutlyoyn0dkiip",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:48:35.881Z",
+      "name": "305mm",
+      "sortAs": null
+    },
+    {
+      "id": "cleudoskd00ewtlyougo3do7i",
+      "createdAt": "2023-03-04T19:49:35.771Z",
+      "updatedAt": "2023-03-04T19:49:31.442Z",
+      "name": "320mm",
+      "sortAs": null
+    },
+    {
+      "id": "cll1grn0g0000mc0u6p19r3js",
+      "createdAt": "2023-08-07T22:48:24.639Z",
+      "updatedAt": "2023-08-07T22:48:24.639Z",
+      "name": "17”",
+      "sortAs": null
+    },
+    {
+      "id": "cll1grr0z0002mc0uzs7hj7ob",
+      "createdAt": "2023-08-07T22:48:29.843Z",
+      "updatedAt": "2023-08-07T22:48:29.843Z",
+      "name": "350mm",
+      "sortAs": null
+    }
+  ],
+  "neckThickness1": [],
+  "neckThickness12": [],
+  "neckWood": [
+    {
+      "id": "cleubppql009mtlyoupprad65",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:08.566Z",
+      "name": "Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqm009otlyojhqz8er8",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:08.704Z",
+      "name": "Flamed Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqm009qtlyo7qem1c6h",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:08.846Z",
+      "name": "Figured Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqn009stlyom4u1zz62",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.003Z",
+      "name": "Quilted Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqn009utlyolmwnh5oy",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.169Z",
+      "name": "Birdseye Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqn009wtlyo1nrn3l9p",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.325Z",
+      "name": "Koa",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqo009ytlyo0izkpadx",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.484Z",
+      "name": "Rosewood",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqo00a0tlyo15dlu594",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.653Z",
+      "name": "Mahogany",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqo00a2tlyocoa0txbg",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.808Z",
+      "name": "Wenge",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqp00a4tlyoa1r16n8f",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:53:09.949Z",
+      "name": "Walnut",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqp00a6tlyox7oipcs3",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:54:02.452Z",
+      "name": "Korina",
+      "sortAs": null
+    },
+    {
+      "id": "cleubppqp00a8tlyo26jqhlwu",
+      "createdAt": "2023-03-04T18:54:19.534Z",
+      "updatedAt": "2023-03-04T18:54:02.576Z",
+      "name": "Purpleheart",
+      "sortAs": null
+    },
+    {
+      "id": "cll77jv4p000amc0u3h50k7g4",
+      "createdAt": "2023-08-11T23:17:02.425Z",
+      "updatedAt": "2023-08-11T23:17:02.425Z",
+      "name": "3-Piece Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cll77k1qn000cmc0urledxmau",
+      "createdAt": "2023-08-11T23:17:10.992Z",
+      "updatedAt": "2023-08-11T23:17:10.992Z",
+      "name": "3-Piece Mahogany",
+      "sortAs": null
+    },
+    {
+      "id": "cll77khhp000emc0ui23o3qqw",
+      "createdAt": "2023-08-11T23:17:31.404Z",
+      "updatedAt": "2023-08-11T23:17:31.404Z",
+      "name": "Roasted Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cll77ktjf000gmc0uan6urxgs",
+      "createdAt": "2023-08-11T23:17:47.018Z",
+      "updatedAt": "2023-08-11T23:17:47.018Z",
+      "name": "Caramelized Maple",
+      "sortAs": null
+    },
+    {
+      "id": "clydas92s0004mc0z9dd1q3qd",
+      "createdAt": "2024-07-08T18:10:20.020Z",
+      "updatedAt": "2024-07-08T18:10:20.020Z",
+      "name": "Quartersawn Maple",
+      "sortAs": null
+    }
+  ],
+  "nut": [
+    {
+      "id": "cleu9hsaq003stlyouq6q4j9k",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:13.948Z",
+      "name": "Bone",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsaq003utlyoe4hnents",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:14.110Z",
+      "name": "Synthetic Bone",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsaq003wtlyohtxtuvvz",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:14.236Z",
+      "name": "Graph Tech",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsar003ytlyo1s87k2j8",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:14.393Z",
+      "name": "TUSQ",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsar0040tlyofbnaje3z",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:14.587Z",
+      "name": "Ivory",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsar0042tlyokn2y8p8w",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:14.733Z",
+      "name": "Water Buffalo Horn",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsar0044tlyogj1f8yzb",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:14.897Z",
+      "name": "Floyd Rose Locking",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsar0046tlyo6bty7ivn",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:46:15.039Z",
+      "name": "Brass",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsar0048tlyos65ufigq",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:47:37.880Z",
+      "name": "Fender LSR Roller",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsas004atlyozjlx7jiv",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:47:38.022Z",
+      "name": "Plastic",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsas004ctlyok6casfks",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:47:38.201Z",
+      "name": "Nylon",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsas004etlyoy0qt6tpl",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:48:48.591Z",
+      "name": "Kahler Locking",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsas004gtlyotkhqm6uq",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:48:48.733Z",
+      "name": "Kahler Stringlock",
+      "sortAs": null
+    },
+    {
+      "id": "cleu9hsas004itlyoqo6o4b4m",
+      "createdAt": "2023-03-04T17:52:10.370Z",
+      "updatedAt": "2023-03-04T17:51:27.475Z",
+      "name": "Kahler Stringlock Pro",
+      "sortAs": null
+    },
+    {
+      "id": "clsezu06z0000mc0z85hv69lh",
+      "createdAt": "2024-02-09T18:41:04.380Z",
+      "updatedAt": "2024-02-09T18:41:04.380Z",
+      "name": "Corian",
+      "sortAs": null
+    },
+    {
+      "id": "clvpwrv0q0002mc0zyzns1bql",
+      "createdAt": "2024-05-03T00:00:00.458Z",
+      "updatedAt": "2024-05-03T00:00:00.458Z",
+      "name": "Synthetic Bronze Powder Blend",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx8lgj001cmc0zsvjsr2hm",
+      "createdAt": "2024-05-03T00:13:01.218Z",
+      "updatedAt": "2024-05-03T00:13:01.218Z",
+      "name": "Top Lok",
+      "sortAs": null
+    },
+    {
+      "id": "clvpx8r1y001emc0z47xtnpu6",
+      "createdAt": "2024-05-03T00:13:08.471Z",
+      "updatedAt": "2024-05-03T00:13:08.471Z",
+      "name": "Top Lok III",
+      "sortAs": null
+    }
+  ],
+  "nutWidth": [
+    {
+      "id": "cleubn991008ytlyobe6smidw",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:48:54.759Z",
+      "name": "1 11/16\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn9910090tlyos2trazrn",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:49:17.678Z",
+      "name": "1 5/8\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn9920092tlyo9ltp9vi1",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:49:17.820Z",
+      "name": "1 3/4\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn9920094tlyofzsrtskd",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:49:17.969Z",
+      "name": "42mm",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn9920096tlyoaezsn4tf",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:49:18.135Z",
+      "name": "43mm",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn9920098tlyodzd8dta2",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:49:47.310Z",
+      "name": "44mm",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn992009atlyo2e29aw4z",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:49:47.438Z",
+      "name": "41mm",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn992009ctlyoxug0qzp6",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:51:04.976Z",
+      "name": "1 13/16\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn993009etlyo4zzxoajq",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:51:05.123Z",
+      "name": "1 7/8\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn993009gtlyo1s9v59k1",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:51:05.267Z",
+      "name": "2\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn993009itlyoa3jrnbe0",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:51:05.448Z",
+      "name": "1 1/2\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleubn993009ktlyoloz7l78g",
+      "createdAt": "2023-03-04T18:52:24.854Z",
+      "updatedAt": "2023-03-04T18:52:21.186Z",
+      "name": "38mm",
+      "sortAs": null
+    },
+    {
+      "id": "cll7727mg0000mc0ui96tkvqn",
+      "createdAt": "2023-08-11T23:03:18.809Z",
+      "updatedAt": "2023-08-11T23:03:18.809Z",
+      "name": "1.66”",
+      "sortAs": null
+    },
+    {
+      "id": "cll772e8z0002mc0u60bglpqb",
+      "createdAt": "2023-08-11T23:03:27.395Z",
+      "updatedAt": "2023-08-11T23:03:27.395Z",
+      "name": "1.69”",
+      "sortAs": null
+    },
+    {
+      "id": "cll772js20004mc0urzags5iv",
+      "createdAt": "2023-08-11T23:03:34.562Z",
+      "updatedAt": "2023-08-11T23:03:34.562Z",
+      "name": "1.687”",
+      "sortAs": null
+    },
+    {
+      "id": "cll772o0p0006mc0ud61r692f",
+      "createdAt": "2023-08-11T23:03:40.058Z",
+      "updatedAt": "2023-08-11T23:03:40.058Z",
+      "name": "1.6875”",
+      "sortAs": null
+    },
+    {
+      "id": "cll772v8s0008mc0u42aswgii",
+      "createdAt": "2023-08-11T23:03:49.420Z",
+      "updatedAt": "2023-08-11T23:03:49.420Z",
+      "name": "1.65”",
+      "sortAs": null
+    },
+    {
+      "id": "cll772yxf000amc0uvnhb3qce",
+      "createdAt": "2023-08-11T23:03:54.195Z",
+      "updatedAt": "2023-08-11T23:03:54.195Z",
+      "name": "1.695”",
+      "sortAs": null
+    },
+    {
+      "id": "cll7749jy000cmc0up9ldmr20",
+      "createdAt": "2023-08-11T23:04:54.621Z",
+      "updatedAt": "2023-08-11T23:04:54.621Z",
+      "name": "1.625”",
+      "sortAs": null
+    },
+    {
+      "id": "cll774niw000emc0ujeee2rvk",
+      "createdAt": "2023-08-11T23:05:12.728Z",
+      "updatedAt": "2023-08-11T23:05:12.728Z",
+      "name": "1.656”",
+      "sortAs": null
+    },
+    {
+      "id": "cll7754st000gmc0un7dy9blt",
+      "createdAt": "2023-08-11T23:05:35.117Z",
+      "updatedAt": "2023-08-11T23:05:35.117Z",
+      "name": "1.685”",
+      "sortAs": null
+    },
+    {
+      "id": "clvpwuhsv0004mc0z5ihhl0ov",
+      "createdAt": "2024-05-03T00:02:03.295Z",
+      "updatedAt": "2024-05-03T00:02:03.295Z",
+      "name": "1.697”",
+      "sortAs": null
+    },
+    {
+      "id": "clvpwunfh0006mc0zkyblxjmi",
+      "createdAt": "2024-05-03T00:02:10.589Z",
+      "updatedAt": "2024-05-03T00:02:10.589Z",
+      "name": "48mm",
+      "sortAs": null
+    }
+  ],
+  "otherFeatures": [
+    {
+      "id": "cleubik8s008mtlyop4x3bm0l",
+      "createdAt": "2023-03-04T18:48:45.820Z",
+      "updatedAt": "2023-03-04T18:46:36.404Z",
+      "name": "Certificate of Authenticity",
+      "sortAs": null
+    },
+    {
+      "id": "cleubik8s008otlyo43arohm5",
+      "createdAt": "2023-03-04T18:48:45.820Z",
+      "updatedAt": "2023-03-04T18:46:40.148Z",
+      "name": "Original Case Candy",
+      "sortAs": null
+    },
+    {
+      "id": "cleubik8s008qtlyorzvfb1a6",
+      "createdAt": "2023-03-04T18:48:45.820Z",
+      "updatedAt": "2023-03-04T18:46:40.288Z",
+      "name": "COA & Original Case Candy",
+      "sortAs": null
+    },
+    {
+      "id": "cleubik8s008stlyopd66nx70",
+      "createdAt": "2023-03-04T18:48:45.820Z",
+      "updatedAt": "2023-03-04T18:46:40.431Z",
+      "name": "Original Hang Tags",
+      "sortAs": null
+    },
+    {
+      "id": "cleubik8t008utlyoyml2xj0b",
+      "createdAt": "2023-03-04T18:48:45.820Z",
+      "updatedAt": "2023-03-04T18:46:40.579Z",
+      "name": "New Old Stock",
+      "sortAs": null
+    },
+    {
+      "id": "cleubik8t008wtlyogmci4ewm",
+      "createdAt": "2023-03-04T18:48:45.820Z",
+      "updatedAt": "2023-03-04T18:48:03.045Z",
+      "name": "100% Factory",
+      "sortAs": null
+    }
+  ],
+  "pickguard": [
+    {
+      "id": "cleuberi70074tlyo75lx1pui",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:37.806Z",
+      "name": "Single Ply White",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi70076tlyo5ae7tpxh",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:37.956Z",
+      "name": "Single Ply Parchment",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi70078tlyonw5moch2",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:38.120Z",
+      "name": "Single Ply Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi7007atlyoaug3cn91",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:38.279Z",
+      "name": "Single Ply Mint",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi7007ctlyou4s398iw",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:38.407Z",
+      "name": "Single Ply Tortoise Shell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi7007etlyods8jd2zv",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:38.556Z",
+      "name": "Single Ply White Tortoise Shell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi8007gtlyoh0k3gukj",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:38.714Z",
+      "name": "2 Ply White on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi8007itlyoegx3rf0x",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:38.864Z",
+      "name": "2 Ply Parchment on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi8007ktlyo8jglijt3",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:39.015Z",
+      "name": "2 Ply Black on White",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi8007mtlyojtr7s8zh",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:39.203Z",
+      "name": "2 Ply Mint on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi8007otlyoxur1jurn",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:41:39.367Z",
+      "name": "2 Ply Tortoise Shell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi9007qtlyosqv51zcg",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:43:32.321Z",
+      "name": "2 Ply White Tortoise Shell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi9007stlyo8fdqlcan",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:43:32.469Z",
+      "name": "3 Ply White on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi9007utlyomnsmecjj",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:43:32.596Z",
+      "name": "3 Ply Parchment on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberi9007wtlyoe0t284hd",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:43:32.768Z",
+      "name": "3 Ply Black on White",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberia007ytlyo37aycy9p",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:43:32.965Z",
+      "name": "3 Ply Black on Parchment",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberia0080tlyovpmiils7",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:25.447Z",
+      "name": "2 Ply Black on Parchment",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberia0082tlyoxa9e5rns",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:25.584Z",
+      "name": "3 Ply Mint on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberia0084tlyoej8sl9cc",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:25.719Z",
+      "name": "4 Ply Black on White",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberib0086tlyo33wuay3m",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:25.877Z",
+      "name": "4 Ply Black on Parchment",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberib0088tlyon0bnlmfo",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:26.015Z",
+      "name": "4 Ply Parchment on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberib008atlyonl70cxln",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:26.155Z",
+      "name": "4 Ply White on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberib008ctlyoog599zag",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:44:26.320Z",
+      "name": "4 Ply Mint on Black",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberib008etlyocjdngcjd",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:45:10.234Z",
+      "name": "4 Ply Tortoise SHell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberib008gtlyonmq1lwl1",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:45:10.383Z",
+      "name": "4 Ply White Tortoise Shell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberic008itlyoxgps4gn6",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:45:10.519Z",
+      "name": "3 Ply Tortoise Shell",
+      "sortAs": null
+    },
+    {
+      "id": "cleuberic008ktlyo9ce462mj",
+      "createdAt": "2023-03-04T18:45:48.607Z",
+      "updatedAt": "2023-03-04T18:45:39.049Z",
+      "name": "3 Ply White Tortoise Shell",
+      "sortAs": null
+    }
+  ],
+  "pickupBrand": [
+    {
+      "id": "cleu8oguy000stlyoov3nuk8g",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:46.797Z",
+      "name": "DiMarzio",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8oguz000utlyo0y08ob98",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:46.931Z",
+      "name": "Seymour Duncan",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv0000wtlyok1fodbxc",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:47.081Z",
+      "name": "Fender",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv1000ytlyoyo70jmqq",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:47.217Z",
+      "name": "Jackson",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv30010tlyo0el5ptro",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:47.352Z",
+      "name": "Gibson",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv40012tlyolkc6m0pv",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:47.502Z",
+      "name": "Bare Knuckle",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv40014tlyoslxw0zp7",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:47.788Z",
+      "name": "EMG",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv50016tlyofzv78bvj",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:26:47.944Z",
+      "name": "Fishman",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv50018tlyoksdj4l6l",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:27:53.338Z",
+      "name": "Lollar",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8ogv6001atlyomianh27r",
+      "createdAt": "2023-03-04T17:29:22.523Z",
+      "updatedAt": "2023-03-04T17:27:53.487Z",
+      "name": "PRS",
+      "sortAs": null
+    }
+  ],
+  "pickupModel": [
+    {
+      "id": "clffur4cl0000owt47bmqdijl",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:41.221Z",
+      "name": "P-90",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cm0002owt4i8ly27zm",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:41.707Z",
+      "name": "PAF",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cm0004owt4czf8zcc7",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:41.867Z",
+      "name": "PU-490 PAF",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cn0006owt4ngh39421",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:42.029Z",
+      "name": "Dirty Fingers",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4co0008owt4hxcq4a8c",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:42.182Z",
+      "name": "'57 Classic",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cp000aowt4fz1dxg7p",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:42.347Z",
+      "name": "Burstbucker",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cp000cowt4ishm10mr",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:42.513Z",
+      "name": "Custombucker",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cq000eowt4gk7k2pcl",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:42.693Z",
+      "name": "P-90 Dogear",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cr000gowt411n1mup5",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:42.880Z",
+      "name": "P-90 Soapbar",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cs000iowt4jfagwjjp",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:43.050Z",
+      "name": "'57 Classic Plus",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4ct000kowt4clffom4u",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:43.213Z",
+      "name": "Burstbucker 1",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cu000mowt482lpsixi",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:43.370Z",
+      "name": "Burstbucker 2",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cu000oowt4y6unio60",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:43.523Z",
+      "name": "Burstbucker 3",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cv000qowt4qazmj8l8",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:43.684Z",
+      "name": "Burstbucker Pro",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cw000sowt4vbat36o9",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:17:43.853Z",
+      "name": "60s Burstbucker",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cx000uowt49tepbvpq",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:24:54.690Z",
+      "name": "T-Type",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cy000wowt4a6cfzrxc",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:24:54.841Z",
+      "name": "Mini-Humbucker",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cy000yowt4ydwm1zuv",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:24:54.977Z",
+      "name": "70s Tribute",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4cz0010owt4176q2koi",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:24:55.130Z",
+      "name": "490R",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d00012owt4b0yyvkmn",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:24:55.287Z",
+      "name": "490T",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d10014owt49ajw3tzv",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:24:55.438Z",
+      "name": "498T",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d10016owt4qvhfus4n",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:25:48.647Z",
+      "name": "496R",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d20018owt47jlr466t",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:25:48.784Z",
+      "name": "500T",
+      "PickupBrandId": "cleu8ogv30010tlyo0el5ptro",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d3001aowt4wh986q2h",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:25:48.923Z",
+      "name": "Vintera '50s Vintage Stratocaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d3001cowt4jtkqpubb",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:25:49.078Z",
+      "name": "Vintera '50s Vintage Telecaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d4001eowt461vaoyt9",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:25:49.230Z",
+      "name": "Vintera '60s Vintage Stratocaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d5001gowt4j2yu1mo5",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:26:58.120Z",
+      "name": "Yosemite Strat Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d6001iowt4gy28y44w",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:26:58.259Z",
+      "name": "Shaw Hot '50s Telecaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d7001kowt4h9wn7p8x",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:26:58.410Z",
+      "name": "Ultra Noiseless Vintage Telecaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d7001mowt4dt77f6h1",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:26:58.584Z",
+      "name": "Ultra Noiseless Hot Stratocaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d8001oowt4ukfgq39k",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:26:58.759Z",
+      "name": "Ultra Noiseless Vintage Stratocaster Pickup",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "clffur4d9001qowt4k80znlx3",
+      "createdAt": "2023-03-19T20:30:27.525Z",
+      "updatedAt": "2023-03-19T20:26:58.934Z",
+      "name": "CuNiFe Wide Range Humbucker",
+      "PickupBrandId": "cleu8ogv0000wtlyok1fodbxc",
+      "sortAs": null
+    },
+    {
+      "id": "cll77g31p0001tl8gcg9xbpmi",
+      "createdAt": "2023-08-11T23:14:06.042Z",
+      "updatedAt": "2023-08-11T23:14:06.042Z",
+      "name": "TB-4 JB Model",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77gpd30003tl8g8k8zw1i1",
+      "createdAt": "2023-08-11T23:14:34.962Z",
+      "updatedAt": "2023-08-11T23:14:34.962Z",
+      "name": "SH-2 Jazz Model",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77hkwh0005tl8gv1wx3ehg",
+      "createdAt": "2023-08-11T23:15:15.836Z",
+      "updatedAt": "2023-08-11T23:15:15.836Z",
+      "name": "SSL-5 Custom Staggered Strat",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77i7rp0007tl8gec7dq0w0",
+      "createdAt": "2023-08-11T23:15:45.474Z",
+      "updatedAt": "2023-08-11T23:15:45.474Z",
+      "name": "SHR-1 Hot Rails Strat",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77ik8e0009tl8g8k96yfjz",
+      "createdAt": "2023-08-11T23:16:01.612Z",
+      "updatedAt": "2023-08-11T23:16:01.612Z",
+      "name": "SSL-1 Vintage Staggered Strat",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77jjzd000btl8g6cuy6sq1",
+      "createdAt": "2023-08-11T23:16:47.958Z",
+      "updatedAt": "2023-08-11T23:16:47.958Z",
+      "name": "SH-1 ’59 Model",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77kh4l000dtl8genmhplos",
+      "createdAt": "2023-08-11T23:17:30.914Z",
+      "updatedAt": "2023-08-11T23:17:30.914Z",
+      "name": "SH-6 Duncan Distortion",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77la0y000ftl8gru7gv2sg",
+      "createdAt": "2023-08-11T23:18:08.364Z",
+      "updatedAt": "2023-08-11T23:18:08.364Z",
+      "name": "SH-4 JB Model",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77ln4e000htl8g9jnb659v",
+      "createdAt": "2023-08-11T23:18:25.338Z",
+      "updatedAt": "2023-08-11T23:18:25.338Z",
+      "name": "Pearly Gates",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77mgjq000jtl8go687xly4",
+      "createdAt": "2023-08-11T23:19:03.473Z",
+      "updatedAt": "2023-08-11T23:19:03.473Z",
+      "name": "Antiquity Humbucker",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77n0s9000ltl8gpxtggzg9",
+      "createdAt": "2023-08-11T23:19:29.703Z",
+      "updatedAt": "2023-08-11T23:19:29.703Z",
+      "name": "SH-8 Invader",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77n7mc000ntl8gnv18dpqs",
+      "createdAt": "2023-08-11T23:19:38.581Z",
+      "updatedAt": "2023-08-11T23:19:38.581Z",
+      "name": "SH-55 Seth Lover",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77nihm000ptl8g5b3ogpnb",
+      "createdAt": "2023-08-11T23:19:52.646Z",
+      "updatedAt": "2023-08-11T23:19:52.646Z",
+      "name": "SH-5 Duncan Custom",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "cll77o6i0000rtl8g7d8eryry",
+      "createdAt": "2023-08-11T23:20:23.767Z",
+      "updatedAt": "2023-08-11T23:20:23.767Z",
+      "name": "SH-11 Custom Custom",
+      "PickupBrandId": "cleu8oguz000utlyo0y08ob98",
+      "sortAs": null
+    },
+    {
+      "id": "clyaifdts0005mc0ywmr7d0tq",
+      "createdAt": "2024-07-06T19:20:58.048Z",
+      "updatedAt": "2024-07-06T19:20:58.048Z",
+      "name": "66",
+      "PickupBrandId": "cleu8ogv40014tlyoslxw0zp7",
+      "sortAs": null
+    },
+    {
+      "id": "clyaifk740007mc0y9m1mnwav",
+      "createdAt": "2024-07-06T19:21:06.303Z",
+      "updatedAt": "2024-07-06T19:21:06.303Z",
+      "name": "57",
+      "PickupBrandId": "cleu8ogv40014tlyoslxw0zp7",
+      "sortAs": null
+    },
+    {
+      "id": "clyaifphn0009mc0yihoxxbx8",
+      "createdAt": "2024-07-06T19:21:13.164Z",
+      "updatedAt": "2024-07-06T19:21:13.164Z",
+      "name": "81",
+      "PickupBrandId": "cleu8ogv40014tlyoslxw0zp7",
+      "sortAs": null
+    },
+    {
+      "id": "clyaifsxe000bmc0ydpnjl8z8",
+      "createdAt": "2024-07-06T19:21:17.619Z",
+      "updatedAt": "2024-07-06T19:21:17.619Z",
+      "name": "85",
+      "PickupBrandId": "cleu8ogv40014tlyoslxw0zp7",
+      "sortAs": null
+    },
+    {
+      "id": "clyallddp000jmc0y55fkdajg",
+      "createdAt": "2024-07-06T20:49:36.253Z",
+      "updatedAt": "2024-07-06T20:49:36.253Z",
+      "name": "Het Set",
+      "PickupBrandId": "cleu8ogv40014tlyoslxw0zp7",
+      "sortAs": null
+    }
+  ],
+  "pickupConfig": [
+    {
+      "id": "cleub8zn5006ktlyoh7uc0hnu",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:37:50.405Z",
+      "name": "1H",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn6006mtlyora3j88i1",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:37:50.599Z",
+      "name": "2H",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn6006otlyon2xqxiai",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:37:50.767Z",
+      "name": "HSS",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn6006qtlyo6mei1569",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:37:50.927Z",
+      "name": "SSS",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn7006stlyo3yyv5oqx",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:37:51.078Z",
+      "name": "HS",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn7006utlyoddsigha5",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:40:37.154Z",
+      "name": "SS",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn7006wtlyoqah69vb9",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:40:37.304Z",
+      "name": "S",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn8006ytlyod8j2ii3t",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:40:37.477Z",
+      "name": "H",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn80070tlyoh5xhz9il",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:41:14.504Z",
+      "name": "HH",
+      "sortAs": null
+    },
+    {
+      "id": "cleub8zn80072tlyod4s72p4k",
+      "createdAt": "2023-03-04T18:41:19.217Z",
+      "updatedAt": "2023-03-04T18:41:14.645Z",
+      "name": "HHH",
+      "sortAs": null
+    }
+  ],
+  "potArrangement": [
+    {
+      "id": "cleub4ac3006atlyoaoq1yimm",
+      "createdAt": "2023-03-04T18:37:39.795Z",
+      "updatedAt": "2023-03-04T18:35:35.924Z",
+      "name": "2 Volume, 2 Tone",
+      "sortAs": null
+    },
+    {
+      "id": "cleub4ac3006ctlyoozgmczlg",
+      "createdAt": "2023-03-04T18:37:39.795Z",
+      "updatedAt": "2023-03-04T18:35:36.068Z",
+      "name": "1 Volume, 2 Tone",
+      "sortAs": null
+    },
+    {
+      "id": "cleub4ac4006etlyo48s4xx9r",
+      "createdAt": "2023-03-04T18:37:39.795Z",
+      "updatedAt": "2023-03-04T18:35:36.204Z",
+      "name": "1 Volume, 1 Tone",
+      "sortAs": null
+    },
+    {
+      "id": "cleub4ac4006gtlyoqnd0rfm1",
+      "createdAt": "2023-03-04T18:37:39.795Z",
+      "updatedAt": "2023-03-04T18:35:36.354Z",
+      "name": "2 Volume, 1 Tone",
+      "sortAs": null
+    },
+    {
+      "id": "cleub4ac4006itlyogbvfv43o",
+      "createdAt": "2023-03-04T18:37:39.795Z",
+      "updatedAt": "2023-03-04T18:35:36.622Z",
+      "name": "One Master Volume",
+      "sortAs": null
+    }
+  ],
+  "preset": [
+    {
+      "createdAt": "2024-07-11T20:23:50.927Z",
+      "id": "clyhpviby0003mc0z98ed4em6",
+      "updatedAt": "2024-07-11T20:23:50.927Z",
+      "name": "ESP USA Viper 2024",
+      "bodyShapeId": null,
+      "bodyTypeId": "cleudxdsu00gutlyov9059k1d",
+      "bodyWoodId": "cleudtqun00fmtlyox316g00y",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "bridgeBrandId": "cletelrco0038owhg80f33ehu",
+      "bridgeModelId": null,
+      "caseId": "cletf4e8q0060owhgnnw3xj4p",
+      "coilTap": "",
+      "conditionId": "cletemyyl003aowhg2kcyc6cv",
+      "countryId": "cletde6no0018owqkieu3i1jt",
+      "fingerBoardId": "cletfa8bv0070owhgn13d7as9",
+      "finishId": null,
+      "finishTypeId": null,
+      "fretCountId": "cleu8gdkm0002tlyoglsufg5f",
+      "fretwireId": "cleu8kg93000mtlyoc88t4yfd",
+      "hardwareId": "cleu8xfqh002mtlyoin2kavm6",
+      "inlayMaterialId": "cleu9nb8y0052tlyoi1n10pdz",
+      "inlaysId": "clyaiagt10000mc0yxskhrymd",
+      "killSwitch": "",
+      "knobsId": "cleudjhuo00dctlyonw4srsec",
+      "modId": null,
+      "modelId": "clyair2ck000dmc0ymw8zkogc",
+      "neckFinishId": "cleudrjjv00eytlyodibf6frq",
+      "neckJointId": "cleucep3400actlyo1a31p2ut",
+      "neckProfileId": "cleucr46m00b4tlyorxb27zmv",
+      "neckRadiusId": "cleudoskd00eutlyoyn0dkiip",
+      "neckThickness1Id": null,
+      "neckThickness12Id": null,
+      "neckWoodId": "cll77k1qn000cmc0urledxmau",
+      "nutId": "cleu9hsaq003stlyouq6q4j9k",
+      "nutWidthId": "cleubn9920094tlyofzsrtskd",
+      "otherFeaturesId": "cleubik8s008mtlyop4x3bm0l",
+      "phaseSwitch": "",
+      "auxiliarySwitch": "",
+      "pickguardId": null,
+      "pickupBridgeId": "cleu8ogv40014tlyoslxw0zp7",
+      "pickupBridgeModelId": "clyaifk740007mc0y9m1mnwav",
+      "pickupConfigId": "cleub8zn80070tlyoh5xhz9il",
+      "pickupMiddleId": null,
+      "pickupMiddleModelId": null,
+      "pickupNeckId": "cleu8ogv40014tlyoslxw0zp7",
+      "pickupNeckModelId": "clyaifdts0005mc0ywmr7d0tq",
+      "potArrangementId": "cleub4ac4006etlyo48s4xx9r",
+      "potDateCodes": "",
+      "presetOtherId": "clyhpvib20000mc0zzixah0y2",
+      "scaleLengthId": "cleuaoyk7005utlyosjkmyost",
+      "serial": "US24176",
+      "strapButtonsId": "clvpxatau001gmc0zlwu3e11e",
+      "stringGaugeId": "cletev3gr003sowhg2rmfs0x8",
+      "submodelId": null,
+      "switchArrangementId": "cleu8zqg0002qtlyo87wnemxq",
+      "topWoodId": null,
+      "tunerBrandId": "cll1ag31g0002mc16alfygv64",
+      "tunerHeadId": "cll1ahbjh0008mc164zt5yd7f",
+      "tunerModelId": "clyaidzuv0003mc0yo1ebrzbs",
+      "weight": "",
+      "year": "2024",
+      "seriesId": "clfzx0gaj001how0chubl0mj2",
+      "neckBindingId": "cll73yxwg000gmc0urwmhht4u",
+      "bodyBindingId": null,
+      "sideMarkersId": "cll73xkm30000mc0up48cogkd",
+      "headstockId": null
+    }
+  ],
+  "presetOther": [
+    {
+      "id": "clyez3gql0000mc0ztomybwke",
+      "createdAt": "2024-07-09T22:18:40.055Z",
+      "updatedAt": "2024-07-09T22:18:40.055Z",
+      "BodyShape": "Offset SG",
+      "BodyType": "",
+      "BodyWood": "",
+      "Brand": "",
+      "BridgeBrand": "",
+      "BridgeModel": "",
+      "Case": "",
+      "coilTap": "",
+      "Condition": "",
+      "Country": "",
+      "FingerBoard": "",
+      "Finish": "See Thru Black Sunburst",
+      "FinishType": "",
+      "FretCount": "",
+      "Fretwire": "",
+      "Hardware": "",
+      "InlayMaterial": "",
+      "Inlays": "",
+      "killSwitch": "",
+      "Knobs": "",
+      "Mod": "",
+      "Model": "",
+      "NeckFinish": "Satin Black",
+      "NeckJoint": "",
+      "NeckProfile": "",
+      "NeckRadius": "",
+      "NeckThickness1": "20mm",
+      "NeckThickness12": "22mm",
+      "NeckWood": "",
+      "Nut": "",
+      "NutWidth": "",
+      "other": null,
+      "OtherFeatures": "",
+      "phaseSwitch": "",
+      "Pickguard": "",
+      "PickupBrand": null,
+      "pickupBridge": "",
+      "pickupBridgeModel": "",
+      "pickupConfig": "",
+      "pickupMiddle": "",
+      "pickupMiddleModel": "",
+      "PickupModel": null,
+      "pickupNeck": "",
+      "pickupNeckModel": "",
+      "PotArrangement": "",
+      "potDateCodes": "",
+      "ScaleLength": "",
+      "Serial": "",
+      "StrapButtons": "",
+      "StringGauge": "",
+      "Submodel": "",
+      "SwitchArrangement": "",
+      "TopWood": "",
+      "TunerBrand": "",
+      "TunerHead": "",
+      "TunerModel": "",
+      "weight": null,
+      "year": null,
+      "series": "",
+      "NeckBinding": "",
+      "BodyBinding": "",
+      "SideMarkers": "",
+      "Headstock": "Matching"
+    },
+    {
+      "id": "clyez3us60002mc0zjpon3h9w",
+      "createdAt": "2024-07-09T22:18:58.325Z",
+      "updatedAt": "2024-07-09T22:18:58.325Z",
+      "BodyShape": "Offset SG",
+      "BodyType": "",
+      "BodyWood": "",
+      "Brand": "",
+      "BridgeBrand": "",
+      "BridgeModel": "",
+      "Case": "",
+      "coilTap": "",
+      "Condition": "",
+      "Country": "",
+      "FingerBoard": "",
+      "Finish": "See Thru Black Sunburst",
+      "FinishType": "",
+      "FretCount": "",
+      "Fretwire": "",
+      "Hardware": "",
+      "InlayMaterial": "",
+      "Inlays": "",
+      "killSwitch": "",
+      "Knobs": "",
+      "Mod": "",
+      "Model": "",
+      "NeckFinish": "Satin Black",
+      "NeckJoint": "",
+      "NeckProfile": "",
+      "NeckRadius": "",
+      "NeckThickness1": "20mm",
+      "NeckThickness12": "22mm",
+      "NeckWood": "",
+      "Nut": "",
+      "NutWidth": "",
+      "other": null,
+      "OtherFeatures": "",
+      "phaseSwitch": "",
+      "Pickguard": "",
+      "PickupBrand": null,
+      "pickupBridge": "",
+      "pickupBridgeModel": "",
+      "pickupConfig": "",
+      "pickupMiddle": "",
+      "pickupMiddleModel": "",
+      "PickupModel": null,
+      "pickupNeck": "",
+      "pickupNeckModel": "",
+      "PotArrangement": "",
+      "potDateCodes": "",
+      "ScaleLength": "",
+      "Serial": "",
+      "StrapButtons": "",
+      "StringGauge": "",
+      "Submodel": "",
+      "SwitchArrangement": "",
+      "TopWood": "",
+      "TunerBrand": "",
+      "TunerHead": "",
+      "TunerModel": "",
+      "weight": null,
+      "year": null,
+      "series": "",
+      "NeckBinding": "",
+      "BodyBinding": "",
+      "SideMarkers": "",
+      "Headstock": "Matching"
+    },
+    {
+      "id": "clyez4gb40006mc0z45tq28g5",
+      "createdAt": "2024-07-09T22:19:26.223Z",
+      "updatedAt": "2024-07-09T22:19:26.223Z",
+      "BodyShape": "Offset SG",
+      "BodyType": "",
+      "BodyWood": "",
+      "Brand": "",
+      "BridgeBrand": "",
+      "BridgeModel": "",
+      "Case": "",
+      "coilTap": "",
+      "Condition": "",
+      "Country": "",
+      "FingerBoard": "",
+      "Finish": "See Thru Black Sunburst",
+      "FinishType": "",
+      "FretCount": "",
+      "Fretwire": "",
+      "Hardware": "",
+      "InlayMaterial": "",
+      "Inlays": "",
+      "killSwitch": "",
+      "Knobs": "",
+      "Mod": "",
+      "Model": "",
+      "NeckFinish": "Satin Black",
+      "NeckJoint": "",
+      "NeckProfile": "",
+      "NeckRadius": "",
+      "NeckThickness1": "20mm",
+      "NeckThickness12": "22mm",
+      "NeckWood": "",
+      "Nut": "",
+      "NutWidth": "",
+      "other": null,
+      "OtherFeatures": "",
+      "phaseSwitch": "",
+      "Pickguard": "",
+      "PickupBrand": null,
+      "pickupBridge": "",
+      "pickupBridgeModel": "",
+      "pickupConfig": "",
+      "pickupMiddle": "",
+      "pickupMiddleModel": "",
+      "PickupModel": null,
+      "pickupNeck": "",
+      "pickupNeckModel": "",
+      "PotArrangement": "",
+      "potDateCodes": "",
+      "ScaleLength": "",
+      "Serial": "",
+      "StrapButtons": "",
+      "StringGauge": "",
+      "Submodel": "",
+      "SwitchArrangement": "",
+      "TopWood": "",
+      "TunerBrand": "",
+      "TunerHead": "",
+      "TunerModel": "",
+      "weight": null,
+      "year": null,
+      "series": "",
+      "NeckBinding": "",
+      "BodyBinding": "",
+      "SideMarkers": "",
+      "Headstock": "Matching"
+    },
+    {
+      "id": "clyhpvib20000mc0zzixah0y2",
+      "createdAt": "2024-07-11T20:23:50.839Z",
+      "updatedAt": "2024-07-11T20:23:50.839Z",
+      "BodyShape": "",
+      "BodyType": "",
+      "BodyWood": "",
+      "Brand": "",
+      "BridgeBrand": "",
+      "BridgeModel": "Locking TOM with Locking Stoptail",
+      "Case": "",
+      "coilTap": "",
+      "Condition": "",
+      "Country": "",
+      "FingerBoard": "",
+      "Finish": "Pearl White",
+      "FinishType": "",
+      "FretCount": "",
+      "Fretwire": "",
+      "Hardware": "",
+      "InlayMaterial": "",
+      "Inlays": "",
+      "killSwitch": "",
+      "Knobs": "",
+      "Mod": "",
+      "Model": "",
+      "NeckFinish": "",
+      "NeckJoint": "",
+      "NeckProfile": "",
+      "NeckRadius": "",
+      "NeckThickness1": "20mm",
+      "NeckThickness12": "22mm",
+      "NeckWood": "",
+      "Nut": "",
+      "NutWidth": "",
+      "other": null,
+      "OtherFeatures": "",
+      "phaseSwitch": "",
+      "Pickguard": "",
+      "PickupBrand": null,
+      "pickupBridge": "",
+      "pickupBridgeModel": "",
+      "pickupConfig": "",
+      "pickupMiddle": "",
+      "pickupMiddleModel": "",
+      "PickupModel": null,
+      "pickupNeck": "",
+      "pickupNeckModel": "",
+      "PotArrangement": "",
+      "potDateCodes": "",
+      "ScaleLength": "",
+      "Serial": "",
+      "StrapButtons": "",
+      "StringGauge": "",
+      "Submodel": "",
+      "SwitchArrangement": "",
+      "TopWood": "",
+      "TunerBrand": "",
+      "TunerHead": "",
+      "TunerModel": "",
+      "weight": null,
+      "year": null,
+      "series": "",
+      "NeckBinding": "",
+      "BodyBinding": "",
+      "SideMarkers": "",
+      "Headstock": "Matching"
+    }
+  ],
+  "scaleLength": [
+    {
+      "id": "cleuaoyk7005utlyosjkmyost",
+      "createdAt": "2023-03-04T18:25:44.696Z",
+      "updatedAt": "2023-03-04T18:21:31.302Z",
+      "name": "24.75\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleuaoyk8005wtlyohnequ41f",
+      "createdAt": "2023-03-04T18:25:44.696Z",
+      "updatedAt": "2023-03-04T18:21:31.448Z",
+      "name": "25.5\"",
+      "sortAs": null
+    },
+    {
+      "id": "cleuaoyk90064tlyo67b1fxo7",
+      "createdAt": "2023-03-04T18:25:44.696Z",
+      "updatedAt": "2023-03-04T18:21:32.102Z",
+      "name": "26.5\"",
+      "sortAs": null
+    }
+  ],
+  "strapButtons": [
+    {
+      "id": "cleu99i29003gtlyow5mj2btt",
+      "createdAt": "2023-03-04T17:45:43.856Z",
+      "updatedAt": "2023-03-04T17:42:14.810Z",
+      "name": "EVH Eye Hooks",
+      "sortAs": null
+    },
+    {
+      "id": "cll7786r6000imc0ugqz63nf8",
+      "createdAt": "2023-08-11T23:07:57.618Z",
+      "updatedAt": "2023-08-11T23:07:57.618Z",
+      "name": "Standard",
+      "sortAs": null
+    },
+    {
+      "id": "cll778m6r000mmc0ur7exlz3n",
+      "createdAt": "2023-08-11T23:08:17.620Z",
+      "updatedAt": "2023-08-11T23:08:17.620Z",
+      "name": "Oversized 17mm",
+      "sortAs": null
+    },
+    {
+      "id": "cll7792wb000omc0uraf6fmov",
+      "createdAt": "2023-08-11T23:08:39.275Z",
+      "updatedAt": "2023-08-11T23:08:39.275Z",
+      "name": "ESP Locking",
+      "sortAs": null
+    },
+    {
+      "id": "clvpxatau001gmc0zlwu3e11e",
+      "createdAt": "2024-05-03T00:14:44.693Z",
+      "updatedAt": "2024-05-03T00:14:44.693Z",
+      "name": "Dunlop Dual Design (Strap Locks Included)",
+      "sortAs": null
+    },
+    {
+      "id": "clvpxb5fz001imc0z9pbdip7r",
+      "createdAt": "2024-05-03T00:15:00.430Z",
+      "updatedAt": "2024-05-03T00:15:00.430Z",
+      "name": "Dunlop Dual Design (Strap Locks Not Included)",
+      "sortAs": null
+    },
+    {
+      "id": "clvpxbgw9001kmc0zbhi6299x",
+      "createdAt": "2024-05-03T00:15:15.273Z",
+      "updatedAt": "2024-05-03T00:15:15.273Z",
+      "name": "Schaller Locking (Strap Locks Included)",
+      "sortAs": null
+    },
+    {
+      "id": "clvpxbs6i001mmc0zl6jckpb0",
+      "createdAt": "2024-05-03T00:15:29.897Z",
+      "updatedAt": "2024-05-03T00:15:29.897Z",
+      "name": "Schaller Locking (Strap Locks Not Included)",
+      "sortAs": null
+    },
+    {
+      "id": "clvpxc1wj001omc0ztilj71j8",
+      "createdAt": "2024-05-03T00:15:42.499Z",
+      "updatedAt": "2024-05-03T00:15:42.499Z",
+      "name": "Standard Modern",
+      "sortAs": null
+    }
+  ],
+  "stringGauge": [
+    {
+      "id": "cletev3gr003qowhgm6nzukri",
+      "createdAt": "2023-03-04T03:34:43.275Z",
+      "updatedAt": "2023-03-04T03:29:00.191Z",
+      "name": "9-42",
+      "sortAs": null
+    },
+    {
+      "id": "cletev3gr003sowhg2rmfs0x8",
+      "createdAt": "2023-03-04T03:34:43.275Z",
+      "updatedAt": "2023-03-04T03:29:00.709Z",
+      "name": "10-46",
+      "sortAs": null
+    },
+    {
+      "id": "cletev3gs003wowhgtpgwjn3z",
+      "createdAt": "2023-03-04T03:34:43.275Z",
+      "updatedAt": "2023-03-04T03:29:01.010Z",
+      "name": "10-52",
+      "sortAs": null
+    }
+  ],
+  "submodel": [
+    {
+      "id": "clevsmqf80000owa0a6z4z47j",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:26:04.745Z",
+      "name": "Studio",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqf80002owa0fy8py81j",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:26:04.896Z",
+      "name": "Deluxe",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqf80004owa0not9jc88",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:26:05.047Z",
+      "name": "'59 Reissue",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqf90006owa03pfoq0q1",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:26:05.191Z",
+      "name": "'58 Reissue",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqf90008owa0qvjm5d8d",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:26:05.348Z",
+      "name": "'57 Reissue",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqf9000aowa0f0lwmaed",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:26:05.508Z",
+      "name": "'60 Reissue",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfa000cowa0dm4gzkfk",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:27:14.611Z",
+      "name": "Classic",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfa000eowa0teurwnyx",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:27:14.745Z",
+      "name": "Traditional",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfa000gowa0c4zh3qx2",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:27:14.889Z",
+      "name": "Standard '50s",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfb000iowa0ejd7dmd3",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:27:15.042Z",
+      "name": "Standard '60s",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfb000kowa00x8pzz32",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:27:15.187Z",
+      "name": "Supreme",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfb000mowa0mqdgob6f",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:43.563Z",
+      "name": "CM",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfc000oowa0rmqs8ko6",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:43.723Z",
+      "name": "Standard",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfc000qowa046r5do30",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:43.877Z",
+      "name": "Studio Vintage",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfc000sowa0mrv94zoe",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:44.054Z",
+      "name": "Custom",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfd000uowa0yrepa658",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:44.230Z",
+      "name": "Custom 3 Pickup",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfd000wowa0a21h1h2w",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:44.393Z",
+      "name": "Custom Pro",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfd000yowa0rqmqkzt3",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:44.553Z",
+      "name": "Special SL",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfe0010owa0in5i1rvc",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:28:44.708Z",
+      "name": "'57 Reissue 3 Pickup",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfe0012owa02m48xtg7",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:32:27.941Z",
+      "name": "Double Cut",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfe0014owa06pmxn9l6",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:32:28.083Z",
+      "name": "Junior",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqff0016owa06pcjxeo3",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:32:28.220Z",
+      "name": "Axcess",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqff0018owa059y3vcky",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:32:28.371Z",
+      "name": "Custom Plus",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqff001aowa0rwwzu9nw",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:32:28.511Z",
+      "name": "Junior Double Cut",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsmqfg001cowa0urh13f26",
+      "createdAt": "2023-03-05T19:35:40.100Z",
+      "updatedAt": "2023-03-05T19:32:28.655Z",
+      "name": "'61 Reissue",
+      "modelId": "cletdtwo20000owhg9uzsbdo3",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3k001eowa0iuwec8gr",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:57.410Z",
+      "name": "Special",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3l001gowa0th7vprq0",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:57.571Z",
+      "name": "Standard",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3l001iowa0fs2dic0d",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:57.717Z",
+      "name": "Standard '61",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3m001kowa0ob5zp5tf",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:57.861Z",
+      "name": "Diablo",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3m001mowa0s8bjy6mk",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:58.023Z",
+      "name": "Supreme",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3m001oowa09l2w33tj",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:58.199Z",
+      "name": "Custom",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3n001qowa09gry62s2",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:58.361Z",
+      "name": "Custom 3 Pickup",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3n001sowa0x3b87sth",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:58.512Z",
+      "name": "'61 Reissue",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3n001uowa0brae0xfy",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:58.668Z",
+      "name": "'63 Reissue",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3o001wowa0wa09xwql",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:58.829Z",
+      "name": "Junior",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3o001yowa007dxlmkb",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:59.013Z",
+      "name": "3 Pickup",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3o0020owa05f048iji",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:59.191Z",
+      "name": "'62 Reissue",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3o0022owa02urznv6o",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:59.362Z",
+      "name": "Deluxe",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3p0024owa0f13cv0qs",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:59.520Z",
+      "name": "Standard High Performance",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    },
+    {
+      "id": "clevsum3p0026owa0wvswpi6y",
+      "createdAt": "2023-03-05T19:41:47.745Z",
+      "updatedAt": "2023-03-05T19:35:59.689Z",
+      "name": "Elegant",
+      "modelId": "cletdtwo30002owhg5mzg9yp2",
+      "sortAs": null
+    }
+  ],
+  "switchArrangement": [
+    {
+      "id": "cleu8zqg0002qtlyo87wnemxq",
+      "createdAt": "2023-03-04T17:38:08.160Z",
+      "updatedAt": "2023-03-04T17:36:40.214Z",
+      "name": "3-Way Toggle Switch",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8zqg0002stlyo2sw3rv6l",
+      "createdAt": "2023-03-04T17:38:08.160Z",
+      "updatedAt": "2023-03-04T17:36:40.372Z",
+      "name": "3-Way Blade Switch",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8zqg0002utlyod362hidb",
+      "createdAt": "2023-03-04T17:38:08.160Z",
+      "updatedAt": "2023-03-04T17:36:40.682Z",
+      "name": "4-Way Blade Switch",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8zqg0002wtlyo4v7ugz3h",
+      "createdAt": "2023-03-04T17:38:08.160Z",
+      "updatedAt": "2023-03-04T17:36:40.837Z",
+      "name": "5-Way Blade Switch",
+      "sortAs": null
+    }
+  ],
+  "topWood": [
+    {
+      "id": "cleu8vrfo001utlyophh2v5ne",
+      "createdAt": "2023-03-04T17:35:02.820Z",
+      "updatedAt": "2023-03-04T17:33:13.062Z",
+      "name": "Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8vrfo001wtlyo1sohyglg",
+      "createdAt": "2023-03-04T17:35:02.820Z",
+      "updatedAt": "2023-03-04T17:33:13.279Z",
+      "name": "Flamed Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8vrfo001ytlyojct05f8w",
+      "createdAt": "2023-03-04T17:35:02.820Z",
+      "updatedAt": "2023-03-04T17:33:13.443Z",
+      "name": "Quilted Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8vrfp0020tlyoh3uomrg3",
+      "createdAt": "2023-03-04T17:35:02.820Z",
+      "updatedAt": "2023-03-04T17:33:13.601Z",
+      "name": "Burled Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8vrfp0022tlyow8jgp6xq",
+      "createdAt": "2023-03-04T17:35:02.820Z",
+      "updatedAt": "2023-03-04T17:33:13.773Z",
+      "name": "Mahogany",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8vrfp0024tlyo501i08qd",
+      "createdAt": "2023-03-04T17:35:02.820Z",
+      "updatedAt": "2023-03-04T17:33:13.938Z",
+      "name": "Ash",
+      "sortAs": null
+    },
+    {
+      "id": "cll77c8sj000umc0utksm7q24",
+      "createdAt": "2023-08-11T23:11:06.884Z",
+      "updatedAt": "2023-08-11T23:11:06.884Z",
+      "name": "AA Flame Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cll77ceek000wmc0u1glawdna",
+      "createdAt": "2023-08-11T23:11:14.155Z",
+      "updatedAt": "2023-08-11T23:11:14.155Z",
+      "name": "AAA Flame Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cll77cp2m000ymc0ufxaiszn8",
+      "createdAt": "2023-08-11T23:11:27.982Z",
+      "updatedAt": "2023-08-11T23:11:27.982Z",
+      "name": "5A Flame Maple",
+      "sortAs": null
+    },
+    {
+      "id": "cll77d2nw0010mc0urp1nxylr",
+      "createdAt": "2023-08-11T23:11:45.595Z",
+      "updatedAt": "2023-08-11T23:11:45.595Z",
+      "name": "Flame Maple 10 Top",
+      "sortAs": null
+    },
+    {
+      "id": "cll77dpir0012mc0upuu9qmgl",
+      "createdAt": "2023-08-11T23:12:15.218Z",
+      "updatedAt": "2023-08-11T23:12:15.218Z",
+      "name": "Figured",
+      "sortAs": null
+    }
+  ],
+  "tunerModel": [
+    {
+      "id": "clyhp7iof0000mc17jetyt8wr",
+      "createdAt": "2024-07-11T20:05:11.632Z",
+      "updatedAt": "2024-07-11T20:04:00.704Z",
+      "name": "Sealed Die-Cast",
+      "tunerBrandId": "cll1ag31g0002mc16alfygv64",
+      "sortAs": null
+    },
+    {
+      "id": "clyhp7iog0002mc17vaavrpqt",
+      "createdAt": "2024-07-11T20:05:11.632Z",
+      "updatedAt": "2024-07-11T20:04:26.300Z",
+      "name": "Sealed Die-Cast",
+      "tunerBrandId": "cleu8t75u001qtlyoe8yul1n1",
+      "sortAs": null
+    },
+    {
+      "id": "clyhp7iog0004mc175xgyz56a",
+      "createdAt": "2024-07-11T20:05:11.632Z",
+      "updatedAt": "2024-07-11T20:04:27.365Z",
+      "name": "Sealed Die-Cast",
+      "tunerBrandId": "cleu8t75r001ctlyo4bygig1b",
+      "sortAs": null
+    },
+    {
+      "id": "clyhp7ioh0006mc17942zeji1",
+      "createdAt": "2024-07-11T20:05:11.632Z",
+      "updatedAt": "2024-07-11T20:04:27.553Z",
+      "name": "Sealed Die-Cast",
+      "tunerBrandId": "cleu8t75s001itlyo5ew61ovu",
+      "sortAs": null
+    },
+    {
+      "id": "clyhp7ioh0008mc17bkfjfrco",
+      "createdAt": "2024-07-11T20:05:11.632Z",
+      "updatedAt": "2024-07-11T20:04:27.785Z",
+      "name": "Sealed Die-Cast",
+      "tunerBrandId": "cleu8t75u001stlyopeovaedc",
+      "sortAs": null
+    },
+    {
+      "id": "clyaidzuv0003mc0yo1ebrzbs",
+      "createdAt": "2024-07-06T19:19:53.288Z",
+      "updatedAt": "2024-07-06T19:19:53.288Z",
+      "name": "Magnum Lock",
+      "tunerBrandId": "cll1ag31g0002mc16alfygv64",
+      "sortAs": null
+    },
+    {
+      "id": "clyaljkn1000hmc0yhwrf7ntc",
+      "createdAt": "2024-07-06T20:48:12.348Z",
+      "updatedAt": "2024-07-06T20:48:12.348Z",
+      "name": "Magnum Lock-Trad",
+      "tunerBrandId": "cll1ag31g0002mc16alfygv64",
+      "sortAs": null
+    }
+  ],
+  "tunerHead": [
+    {
+      "id": "cll1ahbjg0004mc16zsulc1sp",
+      "createdAt": "2023-08-07T19:52:25.516Z",
+      "updatedAt": "2023-08-07T19:49:58.821Z",
+      "name": "Cloche",
+      "sortAs": null
+    },
+    {
+      "id": "cll1ahbjg0006mc16wsju1dgw",
+      "createdAt": "2023-08-07T19:52:25.516Z",
+      "updatedAt": "2023-08-07T19:49:59.825Z",
+      "name": "Kidney",
+      "sortAs": null
+    },
+    {
+      "id": "cll1ahbjh0008mc164zt5yd7f",
+      "createdAt": "2023-08-07T19:52:25.516Z",
+      "updatedAt": "2023-08-07T19:50:00.028Z",
+      "name": "Keystone",
+      "sortAs": null
+    },
+    {
+      "id": "cll1ahbjh000amc16xeyv39pl",
+      "createdAt": "2023-08-07T19:52:25.516Z",
+      "updatedAt": "2023-08-07T19:50:00.207Z",
+      "name": "Oval",
+      "sortAs": null
+    },
+    {
+      "id": "cll1ahbjh000cmc16s4nexabu",
+      "createdAt": "2023-08-07T19:52:25.516Z",
+      "updatedAt": "2023-08-07T19:50:00.449Z",
+      "name": "Tulip",
+      "sortAs": null
+    },
+    {
+      "id": "cll1ahbjh000emc1681spi7hz",
+      "createdAt": "2023-08-07T19:52:25.516Z",
+      "updatedAt": "2023-08-07T19:50:37.087Z",
+      "name": "Imperial",
+      "sortAs": null
+    },
+    {
+      "id": "cll77m9pr000imc0uva6antbc",
+      "createdAt": "2023-08-11T23:18:54.639Z",
+      "updatedAt": "2023-08-11T23:18:54.639Z",
+      "name": "Mini Kidney Bean",
+      "sortAs": null
+    }
+  ],
+  "tunerBrand": [
+    {
+      "id": "cleu8t75r001ctlyo4bygig1b",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:29:43.433Z",
+      "name": "Kluson",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75r001etlyoucixcgbu",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:29:44.522Z",
+      "name": "Grover",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75s001gtlyon5wk1l4n",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:29:44.662Z",
+      "name": "Fender",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75s001itlyo5ew61ovu",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:29:44.835Z",
+      "name": "PRS",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75s001ktlyou868m1ok",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:29:44.999Z",
+      "name": "D'Addario",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75t001mtlyo37qqt3hj",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:29:45.205Z",
+      "name": "Graph Tech",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75t001otlyoykxlbh5h",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:30:58.924Z",
+      "name": "Gibson",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75u001qtlyoe8yul1n1",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:30:59.064Z",
+      "name": "Schaller",
+      "sortAs": null
+    },
+    {
+      "id": "cleu8t75u001stlyopeovaedc",
+      "createdAt": "2023-03-04T17:33:03.231Z",
+      "updatedAt": "2023-03-04T17:30:59.207Z",
+      "name": "Sperzel",
+      "sortAs": null
+    },
+    {
+      "id": "cll1a8tj40000mc160f9uagm1",
+      "createdAt": "2023-08-07T19:45:48.929Z",
+      "updatedAt": "2023-08-07T19:45:45.226Z",
+      "name": "Ping",
+      "sortAs": null
+    },
+    {
+      "id": "cll1ag31g0002mc16alfygv64",
+      "createdAt": "2023-08-07T19:51:27.844Z",
+      "updatedAt": "2023-08-07T19:51:24.109Z",
+      "name": "Gotoh",
+      "sortAs": null
+    }
+  ],
+  "series": [
+    {
+      "id": "clevtjead0000owqs2c2m5g1d",
+      "createdAt": "2023-03-05T20:01:04.021Z",
+      "updatedAt": "2023-03-05T20:00:46.581Z",
+      "name": "Custom Shop",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj50002owqsfiebokl7",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:01:05.491Z",
+      "name": "Custom Shop",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj60004owqsgntjxyl6",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:01:05.635Z",
+      "name": "Custom Art & Historic",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj60006owqski3kqi13",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:01:05.789Z",
+      "name": "Pre-Historic",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj60008owqsp2ak0wt7",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:01:05.964Z",
+      "name": "Guitar of the Week",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj7000aowqsvmqoiaei",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:01:06.143Z",
+      "name": "Guitar of the Month",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj7000cowqsandqi4vn",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:02:30.674Z",
+      "name": "Celebrity",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj7000eowqs9sh66m3j",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:02:30.824Z",
+      "name": "Made to Measure",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj8000gowqsm90gpqx8",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:02:30.947Z",
+      "name": "Mod Shop",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtnmj8000iowqsy0q0hm4u",
+      "createdAt": "2023-03-05T20:04:21.330Z",
+      "updatedAt": "2023-03-05T20:02:31.100Z",
+      "name": "Murphy Aged",
+      "brandId": "cletd7e8w0000owqk8am1zcgz",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9g000kowqs6u1ca923",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:04:51.891Z",
+      "name": "Standard Series",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9g000mowqsg78lox9c",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:04:52.051Z",
+      "name": "Special Edition",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9g000oowqseofekza2",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:04:52.196Z",
+      "name": "Vintera",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9h000qowqs1i41l5yu",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:04:52.352Z",
+      "name": "Player",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9h000sowqsgtjofpto",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:04:52.515Z",
+      "name": "Player Plus",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9h000uowqstlwn0dph",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:06:42.416Z",
+      "name": "FSR",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9i000wowqsrlts0oi6",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:06:42.558Z",
+      "name": "Classic Series",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9i000yowqslukmcy4j",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:06:42.705Z",
+      "name": "Artist Series",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9j0010owqs868e2w62",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:07:38.940Z",
+      "name": "American Standard",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9j0012owqsc6ujkjwj",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:07:39.083Z",
+      "name": "American Ultra",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9j0014owqsp314uqp9",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:07:39.221Z",
+      "name": "American Deluxe",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9j0016owqs8esgsarr",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:07:39.372Z",
+      "name": "American Professional",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9k0018owqs3vujnodr",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:08:12.840Z",
+      "name": "American Professional II",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9k001aowqsd22uh6vc",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:08:12.991Z",
+      "name": "American Elite",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9l001cowqs36v2f21z",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:08:13.119Z",
+      "name": "Alternate Reality",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clevtuq9l001eowqsb125h5f6",
+      "createdAt": "2023-03-05T20:09:52.756Z",
+      "updatedAt": "2023-03-05T20:08:13.266Z",
+      "name": "Deluxe Series",
+      "brandId": "cletd7l5c0002owqkss4kdkks",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwu6s1000pow0caui9amqj",
+      "createdAt": "2023-04-02T21:24:13.393Z",
+      "updatedAt": "2023-04-02T21:24:13.393Z",
+      "name": "Pro-Mod",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwv1xs000row0c8p0rygww",
+      "createdAt": "2023-04-02T21:24:53.776Z",
+      "updatedAt": "2023-04-02T21:24:53.776Z",
+      "name": "Artist Signature",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwvasm000tow0cx54f4kyz",
+      "createdAt": "2023-04-02T21:25:05.255Z",
+      "updatedAt": "2023-04-02T21:25:05.255Z",
+      "name": "MJ",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwvjbb000vow0c67onsu26",
+      "createdAt": "2023-04-02T21:25:16.295Z",
+      "updatedAt": "2023-04-02T21:25:16.295Z",
+      "name": "USA Select",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwvqdw000xow0cqwfsjszv",
+      "createdAt": "2023-04-02T21:25:25.460Z",
+      "updatedAt": "2023-04-02T21:25:25.460Z",
+      "name": "Limited Edition",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwvxoa000zow0c6fretp2i",
+      "createdAt": "2023-04-02T21:25:34.906Z",
+      "updatedAt": "2023-04-02T21:25:34.906Z",
+      "name": "Custom Shop",
+      "brandId": "cletd8zxw000cowqk4wpcf4h2",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwxb0y0015ow0cmdqti7zf",
+      "createdAt": "2023-04-02T21:26:38.867Z",
+      "updatedAt": "2023-04-02T21:26:38.867Z",
+      "name": "JS",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwz3sa0019ow0chbpbsl2n",
+      "createdAt": "2023-04-02T21:28:02.795Z",
+      "updatedAt": "2023-04-02T21:28:02.795Z",
+      "name": "American",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwzlm7001dow0clr8nalfg",
+      "createdAt": "2023-04-02T21:28:25.903Z",
+      "updatedAt": "2023-04-02T21:28:25.903Z",
+      "name": "USA",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwzr7z001fow0c5qotz96c",
+      "createdAt": "2023-04-02T21:28:33.167Z",
+      "updatedAt": "2023-04-02T21:28:33.167Z",
+      "name": "Artist Signature",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx0gaj001how0chubl0mj2",
+      "createdAt": "2023-04-02T21:29:05.659Z",
+      "updatedAt": "2023-04-02T21:29:05.659Z",
+      "name": "USA",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx0xma001jow0cs36jt0dy",
+      "createdAt": "2023-04-02T21:29:28.114Z",
+      "updatedAt": "2023-04-02T21:29:28.114Z",
+      "name": "E-II",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx1hdw001now0c3e8uvsqp",
+      "createdAt": "2023-04-02T21:29:53.732Z",
+      "updatedAt": "2023-04-02T21:29:53.732Z",
+      "name": "Signature",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx1yyk001pow0cxraj3j9m",
+      "createdAt": "2023-04-02T21:30:16.508Z",
+      "updatedAt": "2023-04-02T21:30:16.508Z",
+      "name": "Thinline",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx29hx001row0cyuzlhwz4",
+      "createdAt": "2023-04-02T21:30:30.165Z",
+      "updatedAt": "2023-04-02T21:30:30.165Z",
+      "name": "Custom Shop",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx2q3l001tow0ctq3pr6j9",
+      "createdAt": "2023-04-02T21:30:51.681Z",
+      "updatedAt": "2023-04-02T21:30:51.681Z",
+      "name": "Signature",
+      "brandId": "cletdblxo0016owqkqhih4jcp",
+      "sortAs": null
+    },
+    {
+      "id": "cll76oiz40001tlf4d72vagk8",
+      "createdAt": "2023-08-11T22:52:40.314Z",
+      "updatedAt": "2023-08-11T22:52:40.314Z",
+      "name": "Custom Shop Select",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzx174o001low0c8u2tbsrn",
+      "createdAt": "2023-04-02T21:29:40.440Z",
+      "updatedAt": "2024-07-06T20:35:16.350Z",
+      "name": "Original Series",
+      "brandId": "cletdblxk000gowqki1iubczs",
+      "sortAs": null
+    },
+    {
+      "id": "clydaqjrm0001mc0z3hwq4g92",
+      "createdAt": "2024-07-08T18:09:00.561Z",
+      "updatedAt": "2024-07-08T18:09:00.561Z",
+      "name": "Custom Shop",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clydaqsgw0003mc0z639ddcen",
+      "createdAt": "2024-07-08T18:09:11.841Z",
+      "updatedAt": "2024-07-08T18:09:11.841Z",
+      "name": "Custom Shop Special Edition",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwx01x0013ow0c8ds1wlwo",
+      "createdAt": "2023-04-02T21:26:24.645Z",
+      "updatedAt": "2024-07-11T20:13:03.984Z",
+      "name": "X Series",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwwt4a0011ow0cug2ufw1q",
+      "createdAt": "2023-04-02T21:26:15.658Z",
+      "updatedAt": "2024-07-11T20:13:03.984Z",
+      "name": "Pro Series",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwxebx0017ow0clppdrz6u",
+      "createdAt": "2023-04-02T21:26:43.149Z",
+      "updatedAt": "2024-07-11T20:13:03.984Z",
+      "name": "MJ Series",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    },
+    {
+      "id": "clfzwzd12001bow0c3mog1c71",
+      "createdAt": "2023-04-02T21:28:14.774Z",
+      "updatedAt": "2024-07-11T20:13:03.984Z",
+      "name": "Concept Series",
+      "brandId": "cletd8zxx000eowqkg515p69d",
+      "sortAs": null
+    }
+  ],
+  "sideMarkers": [
+    {
+      "id": "cll73xkm30000mc0up48cogkd",
+      "createdAt": "2023-08-11T21:35:43.515Z",
+      "updatedAt": "2023-08-11T21:35:43.515Z",
+      "name": "White"
+    },
+    {
+      "id": "cll73xmbi0002mc0uljv36y2d",
+      "createdAt": "2023-08-11T21:35:45.727Z",
+      "updatedAt": "2023-08-11T21:35:45.727Z",
+      "name": "Black"
+    },
+    {
+      "id": "cll73xps30004mc0ub64awl15",
+      "createdAt": "2023-08-11T21:35:50.211Z",
+      "updatedAt": "2023-08-11T21:35:50.211Z",
+      "name": "Abalone"
+    },
+    {
+      "id": "cll73xsom0006mc0utvb6ormd",
+      "createdAt": "2023-08-11T21:35:53.974Z",
+      "updatedAt": "2023-08-11T21:35:53.974Z",
+      "name": "Luminlay"
+    },
+    {
+      "id": "cll73y4iy0008mc0u2i3gtyig",
+      "createdAt": "2023-08-11T21:36:09.321Z",
+      "updatedAt": "2023-08-11T21:36:09.321Z",
+      "name": "Pearloid"
+    },
+    {
+      "id": "cll73y6v5000amc0u2e6eb785",
+      "createdAt": "2023-08-11T21:36:12.354Z",
+      "updatedAt": "2023-08-11T21:36:12.354Z",
+      "name": "Mother of Pearl"
+    },
+    {
+      "id": "cll73ym9p000cmc0ukqwh9qh8",
+      "createdAt": "2023-08-11T21:36:32.316Z",
+      "updatedAt": "2023-08-11T21:36:32.316Z",
+      "name": "Micarta"
+    }
+  ],
+  "neckBinding": [
+    {
+      "id": "cll73ywzn000emc0uhk274kcd",
+      "createdAt": "2023-08-11T21:36:46.211Z",
+      "updatedAt": "2023-08-11T21:36:46.211Z",
+      "name": "White"
+    },
+    {
+      "id": "cll73yxwg000gmc0urwmhht4u",
+      "createdAt": "2023-08-11T21:36:47.392Z",
+      "updatedAt": "2023-08-11T21:36:47.392Z",
+      "name": "Black"
+    },
+    {
+      "id": "cll73yz8f000imc0ul62k3jh8",
+      "createdAt": "2023-08-11T21:36:49.119Z",
+      "updatedAt": "2023-08-11T21:36:49.119Z",
+      "name": "Cream"
+    },
+    {
+      "id": "cll743tk9000kmc0urj460unh",
+      "createdAt": "2023-08-11T21:40:35.046Z",
+      "updatedAt": "2023-08-11T21:40:35.046Z",
+      "name": "Pearloid"
+    },
+    {
+      "id": "cll74gwi40014mc0ut0fbsyfg",
+      "createdAt": "2023-08-11T21:50:45.385Z",
+      "updatedAt": "2023-08-11T21:50:45.385Z",
+      "name": "Multi-Ply Cream"
+    },
+    {
+      "id": "cll74h0570016mc0uiuvz4646",
+      "createdAt": "2023-08-11T21:50:50.108Z",
+      "updatedAt": "2023-08-11T21:50:50.108Z",
+      "name": "Multi-Ply White"
+    },
+    {
+      "id": "clscbrk0d0000mc0zuopsbl53",
+      "createdAt": "2024-02-07T21:51:46.956Z",
+      "updatedAt": "2024-02-07T21:51:46.956Z",
+      "name": "Ivoroid"
+    },
+    {
+      "id": "clvpx6d9r0014mc0zwm9dfy6k",
+      "createdAt": "2024-05-03T00:11:17.294Z",
+      "updatedAt": "2024-05-03T00:11:17.294Z",
+      "name": "Figured Maple"
+    }
+  ],
+  "bodyBinding": [
+    {
+      "id": "cll747sch000mmc0uxs1p4pg0",
+      "createdAt": "2023-08-11T21:43:40.097Z",
+      "updatedAt": "2023-08-11T21:43:40.097Z",
+      "name": "White"
+    },
+    {
+      "id": "cll747tbh000omc0uzap8aocj",
+      "createdAt": "2023-08-11T21:43:41.357Z",
+      "updatedAt": "2023-08-11T21:43:41.357Z",
+      "name": "Black"
+    },
+    {
+      "id": "cll7486v0000qmc0uluwdx6fj",
+      "createdAt": "2023-08-11T21:43:58.907Z",
+      "updatedAt": "2023-08-11T21:43:58.907Z",
+      "name": "Cream"
+    },
+    {
+      "id": "cll7495cv000smc0uqabkg12t",
+      "createdAt": "2023-08-11T21:44:43.614Z",
+      "updatedAt": "2023-08-11T21:44:43.614Z",
+      "name": "White Double"
+    },
+    {
+      "id": "cll7497wl000umc0u7gn7r0ui",
+      "createdAt": "2023-08-11T21:44:46.917Z",
+      "updatedAt": "2023-08-11T21:44:46.917Z",
+      "name": "Cream Double"
+    },
+    {
+      "id": "cll74clpr000wmc0ubdcw4eke",
+      "createdAt": "2023-08-11T21:47:24.780Z",
+      "updatedAt": "2023-08-11T21:47:24.780Z",
+      "name": "Multi-Ply Cream"
+    },
+    {
+      "id": "cll74cs2b000ymc0u6whocte6",
+      "createdAt": "2023-08-11T21:47:33.011Z",
+      "updatedAt": "2023-08-11T21:47:33.011Z",
+      "name": "Multi-Ply Cream Double"
+    },
+    {
+      "id": "cll74d2kl0010mc0uy4vyfyhd",
+      "createdAt": "2023-08-11T21:47:46.629Z",
+      "updatedAt": "2023-08-11T21:47:46.629Z",
+      "name": "Multi-Ply White"
+    },
+    {
+      "id": "cll74d8ep0012mc0urmcztq8e",
+      "createdAt": "2023-08-11T21:47:54.194Z",
+      "updatedAt": "2023-08-11T21:47:54.194Z",
+      "name": "Multi-Ply White Double"
+    },
+    {
+      "id": "cll77axs1000qmc0u6lv4paed",
+      "createdAt": "2023-08-11T23:10:05.954Z",
+      "updatedAt": "2023-08-11T23:10:05.954Z",
+      "name": "Ivoroid"
+    },
+    {
+      "id": "cll77bjji000smc0uph4sao8l",
+      "createdAt": "2023-08-11T23:10:34.157Z",
+      "updatedAt": "2023-08-11T23:10:34.157Z",
+      "name": "Pearloid"
+    }
+  ],
+  "headstock": [
+    {
+      "id": "clyhzkpbw0006mc1ghtly8caj",
+      "createdAt": "2024-07-12T00:55:22.941Z",
+      "updatedAt": "2024-07-12T00:56:18.643Z",
+      "name": "Bound",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzll7q000amc1gbdplw8hv",
+      "createdAt": "2024-07-12T00:56:04.263Z",
+      "updatedAt": "2024-07-12T00:56:25.781Z",
+      "name": "Bound/Color Matched",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzmiz5000cmc1gh5udut5z",
+      "createdAt": "2024-07-12T00:56:48.017Z",
+      "updatedAt": "2024-07-12T00:57:01.238Z",
+      "name": "Rosewood Overlay",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzn0bc000emc1gibghf2s9",
+      "createdAt": "2024-07-12T00:57:10.488Z",
+      "updatedAt": "2024-07-12T00:57:20.514Z",
+      "name": "Ebony Overlay",
+      "sortAs": null
+    },
+    {
+      "id": "clyhznfjv000gmc1g7otqq51o",
+      "createdAt": "2024-07-12T00:57:30.236Z",
+      "updatedAt": "2024-07-12T00:57:50.453Z",
+      "name": "Bound, Color Matched Flame Maple Overlay",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzo2do000imc1gk5dl2rk3",
+      "createdAt": "2024-07-12T00:57:59.821Z",
+      "updatedAt": "2024-07-12T00:58:16.906Z",
+      "name": "Bound, Color Matched Quilt Maple Overlay",
+      "sortAs": null
+    },
+    {
+      "id": "clyhzoipv000kmc1gnogzvdpn",
+      "createdAt": "2024-07-12T00:58:20.995Z",
+      "updatedAt": "2024-07-12T00:58:28.910Z",
+      "name": "Color Matched",
+      "sortAs": null
+    }
+  ]
+}
