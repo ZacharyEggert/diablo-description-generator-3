@@ -2,6 +2,7 @@ import "~/styles/globals.css";
 
 import { GeistSans } from "geist/font/sans";
 import { type Metadata } from "next";
+import { Provider as JotaiProvider } from "jotai";
 
 import { TRPCReactProvider } from "~/trpc/react";
 
@@ -18,7 +19,9 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${GeistSans.variable}`}>
       <body className="bg-neutral-300 text-neutral-900 dark:bg-neutral-800 dark:text-neutral-100">
-        <TRPCReactProvider>{children}</TRPCReactProvider>
+        <JotaiProvider>
+          <TRPCReactProvider>{children}</TRPCReactProvider>
+        </JotaiProvider>
       </body>
     </html>
   );

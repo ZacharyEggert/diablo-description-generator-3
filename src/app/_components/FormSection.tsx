@@ -19,7 +19,7 @@ const FormSection = ({
   label,
 }: ReactNodeChildren & { label: string }) => {
   return (
-    <section className="flex flex-col gap-4 rounded-lg bg-neutral-100 p-4 shadow-md dark:bg-neutral-900">
+    <section className="flex flex-col gap-4 bg-neutral-100 p-4 text-neutral-800 shadow-md dark:bg-neutral-900 dark:text-neutral-200">
       <FormSectionLabel>{label}</FormSectionLabel>
       <FormSectionBody>{children}</FormSectionBody>
     </section>
@@ -42,7 +42,7 @@ export default FormSection;
  */
 const FormSectionLabel = ({ children }: ReactNodeChildren) => {
   return (
-    <label className="text-lg font-semibold text-neutral-900 dark:text-neutral-100">
+    <label className="text-2xl font-semibold text-neutral-800 dark:text-neutral-200">
       {children}
     </label>
   );

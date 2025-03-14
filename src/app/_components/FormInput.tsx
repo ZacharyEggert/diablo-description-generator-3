@@ -1,5 +1,8 @@
 "use client";
 
+import { AmpFormData } from "~/lib/canonical/ampForm";
+import { useAmpFormAtom } from "~/app/_components/_atoms/AmpFormAtom";
+
 interface ReactNodeChildren {
   children: React.ReactNode;
 }
@@ -10,8 +13,6 @@ interface ReactNodeChildren {
  * @param type - The type of input field (e.g., text, select, checkbox, radio). Defaults to "text".
  * @param label - The label text to be displayed above the input field.
  * @param placeholder - The placeholder text for the input field. Defaults to the label text for text inputs and "Select an option" for select inputs.
- * @param value - The current value of the input field.
- * @param onChange - The event handler triggered when the input value changes.
  * @param options - An array of options for select and radio input types. Each option should have a `value` and `label` property.
  * @param textType - The specific type of text input (e.g., email, password). Defaults to "text".
  *
@@ -112,87 +113,75 @@ type FormInputFieldProps<
  * @returns A JSX element representing the input field.
  */
 export const FormInputField: React.FC<FormInputFieldProps> = (props) => {
-  // type is used to determine the type of input field to render
-  // default is text, but can be select, checkbox, or radio
-
   switch (props.type) {
     case "text":
       return (
         <FormInputField_Text
           textType={props.textType}
           placeholder={props.placeholder}
-          value={props.value}
-          onChange={props.onChange}
-          {...(props as FormInputField_TextProps)}
+          formKey={props.formKey}
         />
       );
     case "select":
       return (
         <FormInputField_Select
           placeholder={props.placeholder}
-          value={props.value}
-          onChange={props.onChange}
-          {...(props as FormInputField_SelectProps<{
-            value: string;
-            label: string;
-          }>)}
+          formKey={props.formKey}
+          options={props.options}
         />
       );
     case "checkbox":
-      return (
-        <FormInputField_Checkbox
-          value={props.value}
-          onChange={props.onChange}
-          {...(props as FormInputField_CheckboxProps)}
-        />
-      );
+      return <FormInputField_Checkbox formKey={props.formKey} />;
     case "radio":
       return (
         <FormInputField_Radio
-          value={props.value}
-          onChange={props.onChange}
-          {...(props as FormInputField_RadioProps<{
-            value: string;
-            label: string;
-          }>)}
+          options={props.options}
+          formKey={props.formKey}
           name={props.name}
         />
       );
     default:
-      return <FormInputField_Text />;
+      return <FormInputField_Text formKey={props.formKey} />;
   }
 };
 
 interface FormInputField_TextProps {
   textType?: "text" | "email" | "password" | "number" | "tel" | "search";
+  formKey: keyof AmpFormData;
   placeholder?: string;
-  value?: string;
-  onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
 /**
  * Renders a text input field with specified properties.
  *
  * @param textType - The type of text input (e.g., "text", "email", "password"). Defaults to "text".
+ * @param formKey - The key of the form data associated with this input field.
  * @param placeholder - The placeholder text displayed when the input is empty.
- * @param value - The current value of the input field.
- * @param onChange - Callback function triggered when the input value changes.
  *
  * @returns A JSX element representing the text input field.
  */
 const FormInputField_Text: React.FC<FormInputField_TextProps> = ({
   textType = "text",
   placeholder,
-  value,
-  onChange,
+  formKey,
 }) => {
+  const [ampForm, setAmpForm] = useAmpFormAtom();
+  const value = ampForm[formKey];
+
+  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setAmpForm({
+      ...ampForm,
+      [formKey]: e.target.value,
+    });
+  };
+
   return (
     <input
       type={textType}
       placeholder={placeholder}
-      value={value}
+      value={value.toString()}
       onChange={onChange}
-      className="rounded-md border-2 border-neutral-300 p-2 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
+      className="border-2 border-neutral-300 p-2 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
     />
   );
 };
@@ -200,10 +189,9 @@ const FormInputField_Text: React.FC<FormInputField_TextProps> = ({
 interface FormInputField_SelectProps<
   T extends { value: string; label: string },
 > {
+  formKey: keyof AmpFormData;
   options: T[];
   placeholder?: string;
-  value?: T;
-  onChange?: (value: T) => void;
 }
 
 /**
@@ -211,27 +199,31 @@ interface FormInputField_SelectProps<
  *
  * @template T - A generic type that extends an object with a 'value' string and a 'label' string.
  * @param options - An array of option objects to be displayed in the dropdown.
+ * @param formKey - The key of the form data associated with this select input field.
  * @param placeholder - An optional placeholder text used as an initial non-selectable option. Defaults to "Select an option".
- * @param value - The currently selected option object. Its `value` property is used to set the select element's value.
- * @param onChange - A callback function invoked when a new option is selected. It receives the newly selected option as its argument.
  *
  * @returns A JSX element representing a select input field with provided options and styling.
  */
 const FormInputField_Select = <T extends { value: string; label: string }>({
   options,
   placeholder = "Select an option",
-  value,
-  onChange,
+  formKey,
 }: FormInputField_SelectProps<T>) => {
+  const [ampForm, setAmpForm] = useAmpFormAtom();
+  const value = ampForm[formKey];
+
+  const onChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setAmpForm({
+      ...ampForm,
+      [formKey]: e.target.value,
+    });
+  };
+
   return (
     <select
-      value={value?.value}
-      onChange={(e) =>
-        onChange?.(
-          options.find((option) => option.value === e.target.value) as T,
-        )
-      }
-      className="rounded-md border-2 border-neutral-300 p-2 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
+      value={value.toString()}
+      onChange={onChange}
+      className="border-2 border-neutral-300 p-2 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
     >
       {placeholder && <option value="">{placeholder}</option>}
       {options.map((option) => (
@@ -244,8 +236,7 @@ const FormInputField_Select = <T extends { value: string; label: string }>({
 };
 
 interface FormInputField_CheckboxProps {
-  value?: boolean;
-  onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void;
+  formKey: keyof AmpFormData;
 }
 /**
  * A checkbox input field component.
@@ -254,21 +245,29 @@ interface FormInputField_CheckboxProps {
  * This component renders a checkbox input element with preset styling that adapts
  * to both light and dark themes. It uses Tailwind CSS classes for styling.
  *
- * @param value - The boolean value that determines whether the checkbox is checked.
- * @param onChange - The event handler triggered when the checkbox value changes.
+ * @param formKey - The key of the form data associated with this checkbox input field.
  *
  * @returns A JSX element representing the checkbox input.
  */
 const FormInputField_Checkbox: React.FC<FormInputField_CheckboxProps> = ({
-  value,
-  onChange,
+  formKey,
 }) => {
+  const [ampForm, setAmpForm] = useAmpFormAtom();
+  const value = ampForm[formKey];
+
+  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setAmpForm({
+      ...ampForm,
+      [formKey]: e.target.checked, // Changed from e.target.value === "on" to e.target.checked
+    });
+  };
+
   return (
     <input
       type="checkbox"
-      checked={value}
+      checked={!!value}
       onChange={onChange}
-      className="h-8 rounded-md border-2 border-neutral-300 p-1 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
+      className="h-8 border-2 border-neutral-300 p-1 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
     />
   );
 };
@@ -276,9 +275,8 @@ const FormInputField_Checkbox: React.FC<FormInputField_CheckboxProps> = ({
 interface FormInputField_RadioProps<
   T extends { value: string; label: string },
 > {
+  formKey: keyof AmpFormData;
   options: T[];
-  value?: T;
-  onChange?: (value: T) => void;
   name: string;
 }
 
@@ -286,24 +284,35 @@ interface FormInputField_RadioProps<
  * Renders a radio input element for selecting an option.
  *
  * @template T - A type that extends an object with a `value` and a `label` property.
+ * @param formKey - The key of the form data associated with this radio group.
  * @param options - An array of options available for selection.
- * @param value - The current option that is selected.
- * @param onChange - Callback invoked when the radio input's value changes. It is called with the new option object from the options array.
  */
 const FormInputField_Radio = <T extends { value: string; label: string }>({
   options,
-  value,
-  onChange,
+  formKey,
   name,
 }: FormInputField_RadioProps<T>) => {
+  const [ampForm, setAmpForm] = useAmpFormAtom();
+  const value = ampForm[formKey];
+
+  const onChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.checked) {
+      setAmpForm({
+        ...ampForm,
+        [formKey]: e.target.value,
+      });
+    }
+  };
+
   return (
     <div className="flex gap-2">
       {options.map((option) => (
         <FormInputField_RadioOption
           key={option.value}
           option={option}
-          onChange={onChange}
           name={name}
+          checked={value === option.value}
+          onChange={onChange}
         />
       ))}
     </div>
@@ -316,10 +325,12 @@ const FormInputField_RadioOption = <
   option,
   onChange,
   name,
+  checked,
 }: {
   option: T;
-  onChange?: (value: T) => void;
+  onChange?: (e: React.ChangeEvent<HTMLInputElement>) => void;
   name: string;
+  checked: boolean;
 }) => {
   return (
     <label className="flex items-center gap-2">
@@ -327,8 +338,9 @@ const FormInputField_RadioOption = <
         type="radio"
         value={option.value}
         name={name}
-        onChange={() => onChange?.(option)}
-        className="h-8 rounded-md border-2 border-neutral-300 p-1 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
+        checked={checked}
+        onChange={onChange}
+        className="h-8 border-2 border-neutral-300 p-1 text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-100"
       />
       <span>{option.label}</span>
     </label>
