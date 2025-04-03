@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+@theme {
+	--font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif,
+		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
 @layer components {
   main {
     @apply min-h-screen bg-neutral-300 text-neutral-900 dark:bg-neutral-800 dark:text-neutral-100;
